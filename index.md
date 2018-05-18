@@ -69,7 +69,7 @@ can manually edit the .cfg files in the `fortress/` directory.
 | console                         | <kbd>~</kbd>               | `toggleconsole` |
 
 
-### Todo
+## Todo
 
 - [x] Support for [Classic Fortress](http://classicfortress.net/)
 - [ ] Support for [TF 2.9](https://github.com/QWTF/server)
@@ -86,7 +86,7 @@ can manually edit the .cfg files in the `fortress/` directory.
 - [ ] Server Installer
 
 
-### The stack
+## The stack
 
 FortressOne is minimal curated collection of Quake and Team Fortress related files and configurations optimised for competetive play, it includes:
 
@@ -107,7 +107,7 @@ It is designed to run with the following server configuration:
 | server-side cfg | [Classic Fortress server-scripts](https://github.com/Classic-Fortress/server-scripts) |
 
 
-### Community
+## Community
 
 Join the conversation in Discord:
 
@@ -118,7 +118,7 @@ Join the conversation in Discord:
 | South America | oztf             | Portuguese | <https://discord.gg/Ew3NY2Z>  |
 
 
-### A note to those coming from TF 2.8, OZTF and MegaTF
+## A note to those coming from TF 2.8, OZTF and MegaTF
 
 * Each classes weapons can now be found at numbers 1 - 4, with 5 being the
   class menu.
@@ -133,7 +133,7 @@ Join the conversation in Discord:
   `dropflag`.
 
 
-### Small maps
+## Small maps
 
 This is just a recommended list of small maps to try.
 
