@@ -32,10 +32,15 @@
     <div class="wrapper">
 
       <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        </div>
+	<div class="flexbox-container">
+          <div id="logo">
+            <img src="/assets/images/logo.png" height=128 width=128 />
+	  </div>
+          <div id="title">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+          </div>
+	</div>
 
         {{ content }}
 

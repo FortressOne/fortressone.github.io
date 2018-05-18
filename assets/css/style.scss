@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.flexbox-container {
+	display: flex;
+	margin: 0 0 50px 0;
+	#title {
+		align-self: flex-end;
+		margin: 0 0 0 0;
+	}
+}
