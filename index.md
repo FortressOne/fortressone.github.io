@@ -71,19 +71,19 @@ can manually edit the .cfg files in the `fortress/` directory.
 
 ### Todo
 
-  - [x] Support for [Classic Fortress](http://classicfortress.net/)
-  - [ ] Support for [TF 2.9](https://github.com/QWTF/server)
-  - [ ] Support for [megaTF](https://github.com/QWTF/server/tree/master/MegaTF_ClanEdition)
-  - [ ] Support for [huetf](https://github.com/gmtandi/huetf)
-  - [x] Console background
-  - [ ] Menu graphics
-  - [x] HUD
-  - [x] Curation of Team Fortress models and textures
-  - [ ] Player model textures
-  - [ ] Textures
-  - [ ] Skyboxes
-  - [ ] Linux Support
-  - [ ] Server Installer
+- [x] Support for [Classic Fortress](http://classicfortress.net/)
+- [ ] Support for [TF 2.9](https://github.com/QWTF/server)
+- [ ] Support for [megaTF](https://github.com/QWTF/server/tree/master/MegaTF_ClanEdition)
+- [ ] Support for [huetf](https://github.com/gmtandi/huetf)
+- [x] Console background
+- [ ] Menu graphics
+- [x] HUD
+- [x] Curation of Team Fortress models and textures
+- [ ] Player model textures
+- [ ] Textures
+- [ ] Skyboxes
+- [ ] Linux Support
+- [ ] Server Installer
 
 
 ### The stack
@@ -111,11 +111,11 @@ It is designed to run with the following server configuration:
 
 Join the conversation in Discord:
 
-| Region        | Mod              | Language   | Invite link                |
-|---------------|------------------|------------|----------------------------|
-| Oceania       | classic-fortress | English    | https://discord.gg/3CVEAch |
-| North America | megatf           | English    | https://discord.gg/FStt9pw |
-| South America | oztf             | Portuguese | https://discord.gg/Ew3NY2Z |
+| Region        | Mod              | Language   | Invite link                  |
+|---------------|------------------|------------|------------------------------|
+| Oceania       | classic-fortress | English    | <https://discord.gg/3CVEAch> |
+| North America | megatf           | English    | <https://discord.gg/FStt9pw>  |
+| South America | oztf             | Portuguese | <https://discord.gg/Ew3NY2Z>  |
 
 
 ### A note to those coming from TF 2.8, OZTF and MegaTF
