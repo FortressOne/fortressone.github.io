@@ -13,11 +13,6 @@ layout: default
 Download and install [FortressOne](https://github.com/FortressOne/fortress-one-installer/releases/latest)
 
 
-### Linux
-
-Coming soon
-
-
 ## Configuration
 
 Most configuration can be done in-game from the options menu. Save your
