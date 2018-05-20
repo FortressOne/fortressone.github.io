@@ -83,7 +83,8 @@ can manually edit the .cfg files in the `fortress/` directory.
 
 ## The stack
 
-FortressOne is minimal curated collection of Quake and Team Fortress related files and configurations optimised for competetive play, it includes:
+FortressOne is minimal curated collection of Quake and Team Fortress related
+files and configurations optimised for competetive play, it includes:
 
 
 | Client    |
@@ -114,6 +115,11 @@ Join the conversation in Discord:
 
 
 ## A note to those coming from TF 2.8, OZTF and MegaTF
+
+FortressOne is only configured for [this
+fork](https://github.com/FortressOne/server-qwprogs) of the
+[http://http://classicfortress.net](classic-fortress) mod, itself a
+continuation of TF 2.9.
 
 * Each classes weapons can now be found at numbers 1 - 4, with 5 being the
   class menu.
