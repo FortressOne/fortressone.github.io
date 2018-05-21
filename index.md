@@ -10,13 +10,13 @@ layout: default
 
 ### Windows
 
-Download and install [FortressOne](https://github.com/FortressOne/fortress-one-installer/releases/latest)
+Download and install [FortressOne](https://github.com/FortressOne/fortress-one-installer/releases/latest).
 
 
 ## Configuration
 
 Most configuration can be done in-game from the options menu. Save your
-configuration by selecting `Options > Config > Save Settings`, or with the
+configuration by selecting `Options > Config > Save Settings` or with the
 `cfg_save` command.
 
 Team Fortress specific settings are not accessible from the in-game menu. You
@@ -25,44 +25,55 @@ can manually edit the .cfg files in the `fortress/` directory.
 
 ## Controls
 
-| action                          | key                        | command         |
-|---------------------------------|----------------------------|-----------------|
-| move forward                    | <kbd>W</kbd>               | `+forward`      |
-| move back                       | <kbd>S</kbd>               | `+back`         |
-| move left                       | <kbd>A</kbd>               | `+moveleft`     |
-| move right                      | <kbd>D</kbd>               | `+moveright`    |
-| primary weapon attack           | <kbd>MOUSE1</kbd>          | `+slot1`        |
-| secondary weapon attack         | <kbd>MOUSE2</kbd>          | `+slot2`        |
-| tertiary weapon attack          | <kbd>MOUSE3</kbd>          | `+slot3`        |
-| melee attack                    | <kbd>LSHIFT</kbd>          | `+slot4`        |
-| prime / throw hand grenade      | <kbd>Q</kbd>               | `gren1`         |
-| prime / throw secondary grenade | <kbd>E</kbd>               | `gren2`         |
-| class special action            | <kbd>F</kbd>               | `special`       |
-| jump                            | <kbd>SPACE</kbd>           | `+jump`         |
-| reload                          | <kbd>R</kbd>               | `reload`        |
-| reload next weapon              | <kbd>T</kbd>               | `reloadnext`    |
-| select primary weapon           | <kbd>1</kbd>               | `impulse 1`     |
-| select secondary weapon         | <kbd>2</kbd>               | `impulse 2`     |
-| select tertiary weapon          | <kbd>3</kbd>               | `impulse 3`     |
-| select melee weapon             | <kbd>4</kbd>               | `impulse 4`     |
-| class menu                      | <kbd>5</kbd>, <kbd>C</kbd> | `impulse 5`     |
-| next weapon                     | <kbd>MWHEELUP</kbd>        | `weapnext`      |
-| previous weapon                 | <kbd>MWHEELDOWN</kbd>      | `weapprev`      |
-| throw flag                      | <kbd>G</kbd>, <kbd>L</kbd> | `dropflag`      |
-| drop ammo                       | <kbd>V</kbd>               | `dropammo`      |
-| drop backpack                   | <kbd>B</kbd>               | `discard`       |
-| call for a medic                | <kbd>M</kbd>               | `saveme`        |
-| message everyone                | <kbd>Y</kbd>               | `messagemode`   |
-| message team                    | <kbd>U</kbd>               | `messagemode2`  |
-| change class                    | <kbd>,</kbd>               | `changeclass`   |
-| change team                     | <kbd>.</kbd>               | `changeteam`    |
-| map information                 | <kbd>I</kbd>               | `maphelp`       |
-| flag information                | <kbd>O</kbd>               | `flaginfo`      |
-| inventory                       | <kbd>P</kbd>               | `inv`           |
-| show scores                     | <kbd>TAB</kbd>             | `+showscores`   |
-| menu                            | <kbd>ESCAPE</kbd>          | `togglemenu`    |
-| console                         | <kbd>~</kbd>               | `toggleconsole` |
+### Quake bindings
 
+These keys can be customised from the in-game menu.
+
+| action                  | key                   | command         |
+|-------------------------|-----------------------|-----------------|
+| move forward            | <kbd>W</kbd>          | `+forward`      |
+| move back               | <kbd>S</kbd>          | `+back`         |
+| move left               | <kbd>A</kbd>          | `+moveleft`     |
+| move right              | <kbd>D</kbd>          | `+moveright`    |
+| jump                    | <kbd>SPACE</kbd>      | `+jump`         |
+| select primary weapon   | <kbd>1</kbd>          | `impulse 1`     |
+| select secondary weapon | <kbd>2</kbd>          | `impulse 2`     |
+| select tertiary weapon  | <kbd>3</kbd>          | `impulse 3`     |
+| select melee weapon     | <kbd>4</kbd>          | `impulse 4`     |
+| next weapon             | <kbd>MWHEELUP</kbd>   | `weapnext`      |
+| previous weapon         | <kbd>MWHEELDOWN</kbd> | `weapprev`      |
+| message everyone        | <kbd>Y</kbd>          | `messagemode`   |
+| message team            | <kbd>U</kbd>          | `messagemode2`  |
+| show scores             | <kbd>TAB</kbd>        | `+showscores`   |
+| menu                    | <kbd>ESCAPE</kbd>     | `togglemenu`    |
+| console                 | <kbd>~</kbd>          | `toggleconsole` |
+
+
+### Team Fortress bindings
+
+These keys can be customised by editing `fortress/bindings.cfg`.
+
+| action                          | key                        | command       |
+|---------------------------------|----------------------------|---------------|
+| primary weapon attack           | <kbd>MOUSE1</kbd>          | `+slot1`      |
+| secondary weapon attack         | <kbd>MOUSE2</kbd>          | `+slot2`      |
+| tertiary weapon attack          | <kbd>MOUSE3</kbd>          | `+slot3`      |
+| melee attack                    | <kbd>LSHIFT</kbd>          | `+slot4`      |
+| prime / throw hand grenade      | <kbd>Q</kbd>               | `gren1`       |
+| prime / throw secondary grenade | <kbd>E</kbd>               | `gren2`       |
+| class special action            | <kbd>F</kbd>               | `special`     |
+| reload                          | <kbd>R</kbd>               | `reload`      |
+| reload next weapon              | <kbd>T</kbd>               | `reloadnext`  |
+| class menu                      | <kbd>5</kbd>, <kbd>C</kbd> | `impulse 5`   |
+| throw flag                      | <kbd>G</kbd>, <kbd>L</kbd> | `dropflag`    |
+| drop ammo                       | <kbd>V</kbd>               | `dropammo`    |
+| drop backpack                   | <kbd>B</kbd>               | `discard`     |
+| call for a medic                | <kbd>M</kbd>               | `saveme`      |
+| change class                    | <kbd>,</kbd>               | `changeclass` |
+| change team                     | <kbd>.</kbd>               | `changeteam`  |
+| map information                 | <kbd>I</kbd>               | `maphelp`     |
+| flag information                | <kbd>O</kbd>               | `flaginfo`    |
+| inventory                       | <kbd>P</kbd>               | `inv`         |
 
 ## Todo
 
@@ -118,17 +129,17 @@ Join the conversation in Discord:
 
 FortressOne is only configured for [this
 fork](https://github.com/FortressOne/server-qwprogs) of the
-[http://http://classicfortress.net](classic-fortress) mod, itself a
+[classic-fortress](http://classicfortress.net) mod, itself a
 continuation of TF 2.9.
 
-* Each classes weapons can now be found at numbers 1 - 4, with 5 being the
-  class menu.
+* Weapons for all classes can now be found at `impulse 1` through to `impulse
+  4`, with `impulse 5` being the class menu.
 * There is a server-side grenade timer. If you have a script to play a grenade
-  timer locally, you will likely hear both timers. For push to prime, and again
-  to throw, simply bind a key to `gren1` or `gren2`.
-* New `+slotx` commands to quickly fire an alternative weapon then return to
-  the current weapon have been implemented. E.g. With RL as the active weapon,
-`+slot4` will swing the axe before switching back to the RL.
+  timer locally, you will hear both timers. For push to prime, and again to
+  throw, bind a key to `gren1` or `gren2`.
+* `+slot1` through to `+slot5` quickly fire an alternative weapon then select
+  the previous weapn. E.g. With RL as the active weapon, `+slot4` will swing
+  the axe before switching back to the RL.
 * A `reload_next` command has been added to reload the next alternative weapon.
 * The command to throw the flag has been changed from `dropitems` to
   `dropflag`.
