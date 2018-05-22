@@ -20,7 +20,7 @@ configuration by selecting `Options > Config > Save Settings` or with the
 `cfg_save` command.
 
 Team Fortress specific settings are not accessible from the in-game menu. You
-can manually edit the .cfg files in the `fortress/` directory.
+can edit the defaults by editing the `ezquake/configs/config.cfg` file.
 
 
 ## Controls
@@ -48,13 +48,13 @@ These keys can be customised from the in-game menu.
 | menu                    | <kbd>ESCAPE</kbd>     | `togglemenu`    |
 | console                 | <kbd>~</kbd>          | `toggleconsole` |
 
-
 ### Team Fortress bindings
 
-The defaults can be found in `fortress/cfg/bindings.cfg`, however if you have
-already run `cfg_save` then you will need to edit `ezquake\configs\config.cfg`.
+Team Fortress bindings can be changed via the console. E.g: `bind k kill`.
+Default bindings can be restored with `exec cfg/bindings.cfg`. Save changes
+with `cfg_save`.
 
-To restore default bindings run `exec cfg/bindings.cfg` followed by `cfg_save`.
+Alternatively, you can manually edit `ezquake/configs/config.cfg`.
 
 | action                          | key                        | command       |
 |---------------------------------|----------------------------|---------------|
@@ -77,6 +77,7 @@ To restore default bindings run `exec cfg/bindings.cfg` followed by `cfg_save`.
 | map information                 | <kbd>I</kbd>               | `maphelp`     |
 | flag information                | <kbd>O</kbd>               | `flaginfo`    |
 | inventory                       | <kbd>P</kbd>               | `inv`         |
+
 
 ## Todo
 
