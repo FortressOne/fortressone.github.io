@@ -20,7 +20,7 @@ configuration by selecting `Options > Config > Save Settings` or with the
 `cfg_save` command.
 
 Team Fortress specific settings are not accessible from the in-game menu. You
-can edit the defaults by editing the `ezquake/configs/config.cfg` file.
+can adjust these settings in the `ezquake/configs/config.cfg` file.
 
 
 ## Controls
@@ -50,11 +50,12 @@ These keys can be customised from the in-game menu.
 
 ### Team Fortress bindings
 
-Team Fortress bindings can be changed via the console. E.g: `bind k kill`.
-Default bindings can be restored with `exec cfg/bindings.cfg`. Save changes
-with `cfg_save`.
+Team Fortress bindings can be changed via the console. E.g: `bind k kill`. Or
+by editing `ezquake/configs/config.cfg`.
 
-Alternatively, you can manually edit `ezquake/configs/config.cfg`.
+Default key bindings can be restored with `exec cfg/bindings.cfg`.
+
+Save changes with `cfg_save`.
 
 | action                          | key                        | command       |
 |---------------------------------|----------------------------|---------------|
