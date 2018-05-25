@@ -12,6 +12,9 @@ layout: default
 
 Download and install [FortressOne](https://github.com/FortressOne/fortress-one-installer/releases/latest).
 
+_Note: You might get a notifcation that Windows prevented and unknown app from
+running. You can click 'More info' > 'Run anyway'._
+
 
 ## Configuration
 
