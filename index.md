@@ -15,6 +15,10 @@ Download and install [FortressOne](https://github.com/FortressOne/fortress-one-i
 _Note: You might get a notifcation that Windows prevented and unknown app from
 running. You can click 'More info' > 'Run anyway'._
 
+### Linux
+
+Coming soon.
+
 
 ## Configuration
 
@@ -28,60 +32,56 @@ can adjust these settings in the `ezquake/configs/config.cfg` file.
 
 ## Controls
 
-### Quake bindings
+Currently most controls cannot be set via the in-game menu. Bindings can be
+changed via the console. E.g: `bind z throwflag`. Or by editing
+`ezquake/configs/config.cfg`.
 
-These keys can be customised from the in-game menu.
+The default TF2-style key bindings as listed below, can be restored with `exec
+cfg/tf2_bindings.cfg`.
 
-| action                  | key               | command         |
-|-------------------------|-------------------|-----------------|
-| move forward            | <kbd>W</kbd>      | `+forward`      |
-| move back               | <kbd>S</kbd>      | `+back`         |
-| move left               | <kbd>A</kbd>      | `+moveleft`     |
-| move right              | <kbd>D</kbd>      | `+moveright`    |
-| fire                    | <kbd>MOUSE1</kbd> | `+attack`       |
-| jump                    | <kbd>SPACE</kbd>  | `+jump`         |
-| select primary weapon   | <kbd>1</kbd>      | `impulse 1`     |
-| select secondary weapon | <kbd>2</kbd>      | `impulse 2`     |
-| select tertiary weapon  | <kbd>3</kbd>      | `impulse 3`     |
-| select melee weapon     | <kbd>4</kbd>      | `impulse 4`     |
-| class menu              | <kbd>5</kbd>      | `impulse 5`     |
-| message everyone        | <kbd>Y</kbd>      | `messagemode`   |
-| message team            | <kbd>U</kbd>      | `messagemode2`  |
-| show scores             | <kbd>TAB</kbd>    | `+showscores`   |
-| menu                    | <kbd>ESCAPE</kbd> | `togglemenu`    |
-| console                 | <kbd>~</kbd>      | `toggleconsole` |
-
-### Team Fortress bindings
-
-Team Fortress bindings can be changed via the console. E.g: `bind z throwflag`. Or
-by editing `ezquake/configs/config.cfg`.
-
-The default TF2-style key bindings can be restored with `exec cfg/tf2_bindings.cfg`.
-
-zel's bindings (each mouse button fires a different weapon) can be loaded with `exec cfg/zeltf_bindings.cfg`.
+zel's bindings, can be loaded with `exec cfg/zeltf_bindings.cfg`.
 
 Save changes with `cfg_save`.
 
-| action                          | key                        | command       |
-|---------------------------------|----------------------------|---------------|
-| prime / throw hand grenade      | <kbd>Q</kbd>               | `gren1`       |
-| prime / throw secondary grenade | <kbd>E</kbd>               | `gren2`       |
-| class special                   | <kbd>MOUSE2</kbd>          | `special`     |
-| reload                          | <kbd>R</kbd>               | `reload`      |
-| reload next weapon              | <kbd>T</kbd>               | `reloadnext`  |
-| previous weapon                 | <kbd>F</kbd>               | `impulse 12`  |
-| next weapon                     | <kbd>G</kbd>               | `impulse 10`  |
-| melee attack                    | <kbd>LSHIFT</kbd>          | `+slot4`      |
-| throw flag                      | <kbd>L</kbd>, <kbd>C</kbd> | `dropflag`    |
-| drop ammo                       | <kbd>V</kbd>               | `dropammo`    |
-| drop backpack                   | <kbd>B</kbd>               | `discard`     |
-| call for a medic                | <kbd>M</kbd>               | `saveme`      |
-| change class                    | <kbd>,</kbd>               | `changeclass` |
-| change team                     | <kbd>.</kbd>               | `changeteam`  |
-| map information                 | <kbd>I</kbd>               | `maphelp`     |
-| flag information                | <kbd>O</kbd>               | `flaginfo`    |
-| inventory                       | <kbd>P</kbd>               | `inv`         |
-| suicide                         | <kbd>K</kbd>               | `kill`        |
+### Defaults
+
+| action                  | key                        | command         |
+|-------------------------|----------------------------|-----------------|
+| move forward            | <kbd>W</kbd>               | `+forward`      |
+| move back               | <kbd>S</kbd>               | `+back`         |
+| move left               | <kbd>A</kbd>               | `+moveleft`     |
+| move right              | <kbd>D</kbd>               | `+moveright`    |
+| jump                    | <kbd>SPACE</kbd>           | `+jump`         |
+| fire                    | <kbd>MOUSE1</kbd>          | `+attack`       |
+| class special           | <kbd>MOUSE2</kbd>          | `special`       |
+| hand grenade            | <kbd>E</kbd>               | `gren1`         |
+| secondary grenade       | <kbd>F</kbd>               | `gren2`         |
+| melee attack            | <kbd>LSHIFT</kbd>          | `+slot4`        |
+| select primary weapon   | <kbd>1</kbd>               | `impulse 1`     |
+| select secondary weapon | <kbd>2</kbd>               | `impulse 2`     |
+| select tertiary weapon  | <kbd>3</kbd>               | `impulse 3`     |
+| select melee weapon     | <kbd>4</kbd>               | `impulse 4`     |
+| class menu              | <kbd>5</kbd>, <kbd>C</kbd> | `impulse 5`     |
+| previous weapon         | <kbd>MWHEELUP</kbd>        | `impulse 11`    |
+| next weapon             | <kbd>MWHEELDOWN</kbd>      | `impulse 12`    |
+| last weapon             | <kbd>Q</kbd>               | `impulse 13`    |
+| reload                  | <kbd>R</kbd>               | `reload`        |
+| reload next weapon      | <kbd>T</kbd>               | `reloadnext`    |
+| throw flag              | <kbd>G</kbd>, <kbd>L</kbd> | `dropflag`      |
+| drop ammo               | <kbd>V</kbd>               | `dropammo`      |
+| drop backpack           | <kbd>B</kbd>               | `discard`       |
+| call for a medic        | <kbd>M</kbd>               | `saveme`        |
+| change class            | <kbd>,</kbd>               | `changeclass`   |
+| change team             | <kbd>.</kbd>               | `changeteam`    |
+| message everyone        | <kbd>Y</kbd>               | `messagemode`   |
+| message team            | <kbd>U</kbd>               | `messagemode2`  |
+| show scores             | <kbd>TAB</kbd>             | `+showscores`   |
+| menu                    | <kbd>ESCAPE</kbd>          | `togglemenu`    |
+| console                 | <kbd>~</kbd>               | `toggleconsole` |
+| map information         | <kbd>I</kbd>               | `maphelp`       |
+| flag information        | <kbd>O</kbd>               | `flaginfo`      |
+| inventory               | <kbd>P</kbd>               | `inv`           |
+| suicide                 | <kbd>K</kbd>               | `kill`          |
 
 
 ## Todo
@@ -137,9 +137,8 @@ Join the conversation in Discord:
 
 ## A note to those coming from TF 2.8, OZTF and MegaTF
 
-FortressOne is only configured for [this
-fork](https://github.com/FortressOne/server-qwprogs) of the
-[classic-fortress](http://classicfortress.net) mod, itself a
+FortressOne is currently only configured for [this fork](https://github.com/FortressOne/server-qwprogs)
+of the [classic-fortress](http://classicfortress.net) mod, itself a
 continuation of TF 2.9.
 
 * There is a server-side grenade timer. If you have a script to play a grenade
