@@ -44,45 +44,61 @@ zel's bindings, can be loaded with `exec cfg/zeltf_bindings.cfg`.
 
 Save changes with `cfg_save`.
 
-### Defaults
+### Movement
 
-| action                  | key                        | command         |
-|-------------------------|----------------------------|-----------------|
-| move forward            | <kbd>W</kbd>               | `+forward`      |
-| move back               | <kbd>S</kbd>               | `+back`         |
-| move left               | <kbd>A</kbd>               | `+moveleft`     |
-| move right              | <kbd>D</kbd>               | `+moveright`    |
-| jump                    | <kbd>SPACE</kbd>           | `+jump`         |
-| fire                    | <kbd>MOUSE1</kbd>          | `+attack`       |
-| class special           | <kbd>MOUSE2</kbd>          | `special`       |
-| hand grenade            | <kbd>E</kbd>               | `gren1`         |
-| secondary grenade       | <kbd>F</kbd>               | `gren2`         |
-| melee attack            | <kbd>LSHIFT</kbd>          | `+slot4`        |
-| select primary weapon   | <kbd>1</kbd>               | `impulse 1`     |
-| select secondary weapon | <kbd>2</kbd>               | `impulse 2`     |
-| select tertiary weapon  | <kbd>3</kbd>               | `impulse 3`     |
-| select melee weapon     | <kbd>4</kbd>               | `impulse 4`     |
-| class menu              | <kbd>5</kbd>, <kbd>C</kbd> | `impulse 5`     |
-| previous weapon         | <kbd>MWHEELUP</kbd>        | `impulse 11`    |
-| next weapon             | <kbd>MWHEELDOWN</kbd>      | `impulse 12`    |
-| last weapon             | <kbd>Q</kbd>               | `impulse 13`    |
-| reload                  | <kbd>R</kbd>               | `reload`        |
-| reload next weapon      | <kbd>T</kbd>               | `reloadnext`    |
-| throw flag              | <kbd>G</kbd>, <kbd>L</kbd> | `dropflag`      |
-| drop ammo               | <kbd>V</kbd>               | `dropammo`      |
-| drop backpack           | <kbd>B</kbd>               | `discard`       |
-| call for a medic        | <kbd>M</kbd>               | `saveme`        |
-| change class            | <kbd>,</kbd>               | `changeclass`   |
-| change team             | <kbd>.</kbd>               | `changeteam`    |
-| message everyone        | <kbd>Y</kbd>               | `messagemode`   |
-| message team            | <kbd>U</kbd>               | `messagemode2`  |
-| show scores             | <kbd>TAB</kbd>             | `+showscores`   |
-| menu                    | <kbd>ESCAPE</kbd>          | `togglemenu`    |
-| console                 | <kbd>~</kbd>               | `toggleconsole` |
-| map information         | <kbd>I</kbd>               | `maphelp`       |
-| flag information        | <kbd>O</kbd>               | `flaginfo`      |
-| inventory               | <kbd>P</kbd>               | `inv`           |
-| suicide                 | <kbd>K</kbd>               | `kill`          |
+| move forward | <kbd>W</kbd>     | `+forward`   |
+| move back    | <kbd>S</kbd>     | `+back`      |
+| move left    | <kbd>A</kbd>     | `+moveleft`  |
+| move right   | <kbd>D</kbd>     | `+moveright` |
+| jump         | <kbd>SPACE</kbd> | `+jump`      |
+
+### Attack
+
+| fire              | <kbd>MOUSE1</kbd> | `+attack` |
+| hand grenade      | <kbd>E</kbd>      | `gren1`   |
+| secondary grenade | <kbd>F</kbd>      | `gren2`   |
+| melee attack      | <kbd>LSHIFT</kbd> | `+slot4`  |
+
+### Action
+
+| class special      | <kbd>MOUSE2</kbd>          | `special`    |
+| class menu         | <kbd>C</kbd>, <kbd>5</kbd> | `impulse 5`  |
+| reload             | <kbd>R</kbd>               | `reload`     |
+| reload next weapon | <kbd>T</kbd>               | `reloadnext` |
+| throw flag         | <kbd>G</kbd>, <kbd>L</kbd> | `dropflag`   |
+| drop ammo          | <kbd>V</kbd>               | `dropammo`   |
+| drop backpack      | <kbd>B</kbd>               | `discard`    |
+| call for a medic   | <kbd>M</kbd>               | `saveme`     |
+| suicide            | <kbd>K</kbd>               | `kill`       |
+
+### Weapon Switching
+
+| select primary weapon   | <kbd>1</kbd>          | `impulse 1`  |
+| select secondary weapon | <kbd>2</kbd>          | `impulse 2`  |
+| select tertiary weapon  | <kbd>3</kbd>          | `impulse 3`  |
+| select melee weapon     | <kbd>4</kbd>          | `impulse 4`  |
+| previous weapon         | <kbd>MWHEELUP</kbd>   | `impulse 11` |
+| next weapon             | <kbd>MWHEELDOWN</kbd> | `impulse 12` |
+| last weapon             | <kbd>Q</kbd>          | `impulse 13` |
+
+### Menu
+
+| main menu    | <kbd>ESCAPE</kbd> | `togglemenu`    |
+| console      | <kbd>~</kbd>      | `toggleconsole` |
+| change class | <kbd>,</kbd>      | `changeclass`   |
+| change team  | <kbd>.</kbd>      | `changeteam`    |
+
+### Communication
+
+| message everyone | <kbd>Y</kbd> | `messagemode`  |
+| message team     | <kbd>U</kbd> | `messagemode2` |
+
+### Information
+
+| show scores      | <kbd>TAB</kbd> | `+showscores` |
+| map information  | <kbd>I</kbd>   | `maphelp`     |
+| flag information | <kbd>O</kbd>   | `flaginfo`    |
+| inventory        | <kbd>P</kbd>   | `inv`         |
 
 
 ## Todo
