@@ -10,10 +10,20 @@ h2 {
 .flexbox-container {
 	display: flex;
 	margin: 0 0 50px 0;
+
 	#title {
 		align-self: flex-end;
 		margin: 0 0 0 0;
 	}
+
+        #logo {
+                img {
+                        // height: 128px;
+                        // width: 128px;
+                        // overflow: hidden;
+                        height: auto;
+                }
+        }
 }
 
 #maps {
