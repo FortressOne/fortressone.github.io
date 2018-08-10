@@ -164,7 +164,7 @@ continuation of TF 2.9.
   the previous weapn. E.g. With RL as the active weapon, `+slot4` will swing
   the axe before switching back to the RL.
 * A `reload_next` command has been added to reload the next alternative weapon.
-* You can disable the server-side grenade timer with `setinfo nt 2`
+* You can disable the server-side grenade timer with `setinfo nt 2`.
 * For push to prime, and again to throw, bind a key to `gren1` or `gren2`.
 * The command to throw the flag has been changed from `dropitems` to
   `dropflag`.
