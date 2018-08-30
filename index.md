@@ -145,11 +145,11 @@ It is designed to run with the following server configuration:
 
 Join the conversation in Discord:
 
-| Region        | Mod              | Language   | Invite link                  |
-|---------------|------------------|------------|------------------------------|
-| Oceania       | classic-fortress | English    | <https://discord.gg/3CVEAch> |
-| North America | megatf           | English    | <https://discord.gg/FStt9pw> |
-| Brazil        | heutf            | Portuguese | <https://discord.gg/Ew3NY2Z> |
+| Region        | Mod              | Language   | Invite link                      |
+|---------------|------------------|------------|----------------------------------|
+| Oceania       | classic-fortress | English    | <https://discord.fortressone.ga> |
+| North America | megatf           | English    | <https://discord.gg/FStt9pw>     |
+| Brazil        | heutf            | Portuguese | <https://discord.gg/Ew3NY2Z>     |
 
 
 ## A note to those coming from TF 2.8, OZTF and MegaTF
