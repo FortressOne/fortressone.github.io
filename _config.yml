@@ -26,6 +26,7 @@ markdown: kramdown
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 defaults:
   - scope:
