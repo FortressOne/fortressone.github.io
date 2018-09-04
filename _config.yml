@@ -20,7 +20,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fortressone.ga" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FortressOne
 github_username:  FortressOne
-google_verify: dU2Vf1rLuJMHFi0VNNToTrinutnFMDlF8YOL4SAuY8Q
 
 # Build settings
 markdown: kramdown
