@@ -103,20 +103,7 @@ Save changes with `cfg_save`.
 
 ## Todo
 
-- [x] Support for [Classic Fortress](http://classicfortress.net/)
-- [ ] Support for [TF 2.9](https://github.com/QWTF/server)
-- [ ] Support for [megaTF](https://github.com/QWTF/server/tree/master/MegaTF_ClanEdition)
-- [ ] Support for [huetf](https://github.com/gmtandi/huetf)
-- [x] Console background
-- [ ] Edit server-mod options directly from ezQuake menu
-- [ ] Menu graphics
-- [x] HUD
-- [x] Curation of Team Fortress models and textures
-- [ ] Player model textures
-- [ ] Textures
-- [ ] Skyboxes
-- [ ] Linux Support
-- [ ] Server Installer
+[Todo list on FortressOne Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
 
 
 ## The stack
@@ -159,7 +146,7 @@ of the [classic-fortress](http://classicfortress.net) mod, itself a
 continuation of TF 2.9.
 
 * Weapons for all classes can now be found at `impulse 1` through to `impulse
-  4`, with `impulse 5` being the class menu.
+  4`, with `impulse 5` or `menu` opening the class menu.
 * `+slot1` through to `+slot4` quickly fire an alternative weapon then select
   the previous weapn. E.g. With RL as the active weapon, `+slot4` will swing
   the axe before switching back to the RL.
@@ -167,7 +154,9 @@ continuation of TF 2.9.
 * You can disable the server-side grenade timer with `setinfo nt 2`.
 * For push to prime, and again to throw, bind a key to `gren1` or `gren2`.
 * The command to throw the flag has been changed from `dropitems` to
-  `dropflag`.
+* Status bar can be enabled and positioned with `setinfo sb n` where n is the
+  number of newlines from the top of your screen.
+* Auto ID can be activated with `setinfo ai 1`.
 
 
 ## Server commands for running a quad on qw://sydney.fortressone.org
