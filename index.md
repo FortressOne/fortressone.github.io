@@ -166,17 +166,16 @@ Begin:
 ```
 rcon_password <password>
 rcon localinfo clan on
-rcon localinfo prematch 1
 rcon timelimit 11
 rcon password <server_password>
 rcon map <map>
 ```
+Note: 11 minute timelimit allows for default 1 minute prematch
 
 End:
 
 ```
 rcon localinfo clan off
-rcon localinfo prematch 0
 rcon timelimit 15
 rcon password none
 rcon map <map>
