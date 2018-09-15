@@ -30,9 +30,19 @@ h2 {
   columns: 5;
 }
 
+#under-heading {
+  margin-top: -32px;
+}
+
+#logos {
+  text-align: center;
+  img {
+    margin: 8px;
+  }
+}
+
 #links {
   text-align: center;
-  margin-top: -50px;
   p {
     margin-bottom: 10px;
   }
