@@ -45,8 +45,6 @@ These controls can be actived with `exec cfg/zeltf_bindings` and saved with
 | select secondary weapon | <kbd>2</kbd>          | `impulse 2`  |
 | select tertiary weapon  | <kbd>3</kbd>          | `impulse 3`  |
 | select melee weapon     | <kbd>4</kbd>          | `impulse 4`  |
-| previous weapon         | <kbd>MWHEELUP</kbd>   | `impulse 11` |
-| next weapon             | <kbd>MWHEELDOWN</kbd> | `impulse 12` |
 
 
 ### Menu
