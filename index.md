@@ -13,7 +13,7 @@ title: FortressOne
 
 Download and install [FortressOne](https://github.com/FortressOne/fortress-one-installer/releases/latest).
 
-_Note: You might get a notifcation that Windows prevented and unknown app from
+_You might get a notifcation that Windows prevented and unknown app from
 running. You can click 'More info' > 'Run anyway'._
 
 ### Linux
@@ -40,7 +40,7 @@ changed via the console. E.g: `bind z throwflag`. Or by editing
 The default TF2-style key bindings as listed below, can be restored with `exec
 cfg/tf2_bindings.cfg`.
 
-zel's bindings, can be loaded with `exec cfg/zeltf_bindings.cfg`.
+[zel's bindings](zels_bindings.md), can be loaded with `exec cfg/zeltf_bindings.cfg`.
 
 Save changes with `cfg_save`.
 
@@ -52,12 +52,14 @@ Save changes with `cfg_save`.
 | move right   | <kbd>D</kbd>     | `+moveright` |
 | jump         | <kbd>SPACE</kbd> | `+jump`      |
 
+
 ### Attack
 
 | fire              | <kbd>MOUSE1</kbd> | `+attack` |
 | hand grenade      | <kbd>E</kbd>      | `gren1`   |
 | secondary grenade | <kbd>F</kbd>      | `gren2`   |
 | melee attack      | <kbd>LSHIFT</kbd> | `+slot4`  |
+
 
 ### Action
 
@@ -71,6 +73,7 @@ Save changes with `cfg_save`.
 | call for a medic   | <kbd>M</kbd>               | `saveme`     |
 | suicide            | <kbd>K</kbd>               | `kill`       |
 
+
 ### Weapon Switching
 
 | select primary weapon   | <kbd>1</kbd>          | `impulse 1`  |
@@ -81,6 +84,7 @@ Save changes with `cfg_save`.
 | next weapon             | <kbd>MWHEELDOWN</kbd> | `impulse 12` |
 | last weapon             | <kbd>Q</kbd>          | `impulse 13` |
 
+
 ### Menu
 
 | main menu    | <kbd>ESCAPE</kbd> | `togglemenu`    |
@@ -88,10 +92,12 @@ Save changes with `cfg_save`.
 | change class | <kbd>,</kbd>      | `changeclass`   |
 | change team  | <kbd>.</kbd>      | `changeteam`    |
 
+
 ### Communication
 
 | message everyone | <kbd>Y</kbd> | `messagemode`  |
 | message team     | <kbd>U</kbd> | `messagemode2` |
+
 
 ### Information
 
@@ -154,14 +160,17 @@ continuation of TF 2.9.
 * You can disable the server-side grenade timer with `setinfo nt 2`.
 * For push to prime, and again to throw, bind a key to `gren1` or `gren2`.
 * The command to throw the flag has been changed from `dropitems` to
+  `dropflag`.
 * Status bar can be enabled and positioned with `setinfo sb n` where n is the
   number of newlines from the top of your screen.
 * Auto ID can be activated with `setinfo ai 1`.
 
 
-## Server commands for running a quad on qw://sydney.fortressone.org
+## Commands for running a quad on qw://sydney.fortressone.org
 
-Begin:
+Ensure you have `cl_crypt_rcon 1`.
+
+### Begin
 
 ```
 rcon_password <password>
@@ -170,9 +179,11 @@ rcon timelimit 11
 rcon password <server_password>
 rcon map <map>
 ```
-Note: 11 minute timelimit allows for default 1 minute prematch
 
-End:
+11 minute timelimit allows for default 1 minute prematch
+
+
+### End
 
 ```
 rcon localinfo clan off
@@ -182,40 +193,66 @@ rcon map <map>
 ```
 
 
-## Small maps
+## Maps
 
-This is just a recommended list of small maps to try.
 
-- 1on1forts
-- 2mach1
-- 2octa4v1
+### 1v1
+
+- 1on1r
 - amth1
-- cloudy
-- dbox1a
-- desperat
-- duel2
-- egypt
-- excel
-- frozen
-- genders2
-- koth3
-- ktod
-- lms_siege
-- long
-- metal
-- mini32s
-- mininoheros
-- mininoheros2
+- 1on1xs
+- frag
+- sq1
+- soulsq1
+- 1on1forts
+- well1on1
+
+
+### 2v2
+
+- poop
+- xpress3
+- xpress2
 - minitf2k
-- optics5
+- mini32s
 - preskool
-- rrbat1
+- midground2
+- mininoheros
+- desperat
+
+
+### 3v3
+
+- drop2
+- well6small
+- drop2
+- fatta1
+- frozen1
+- genders2
 - rs_zz1
 - rstrong
-- soulsq1
-- sq1
-- swamp3
-- well1on1
-- xpress2
-- xpress3
-{: #maps}
+- egypt
+
+
+### 4v4
+
+- mbasesl
+- bam4
+- blitzkrieg2
+- well6
+- tf2k
+- turtler
+- 2fortr5
+- h4rdcore
+- excel
+- cloudy
+
+
+### 4-team
+
+- spaz4
+- king
+- koth3
+- 2octa4v1
+
+Many of these maps will work with less or more players than suggest above.
