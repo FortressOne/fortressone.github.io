@@ -174,21 +174,17 @@ Ensure you have `cl_crypt_rcon 1`.
 
 ```
 rcon_password <password>
-rcon localinfo clan on
-rcon timelimit 11
-rcon password <server_password>
+rcon quadmode
 rcon map <map>
 ```
 
-11 minute timelimit allows for default 1 minute prematch
+Ask in the [Discord server](https://discord.fortressone.org) for the password.
 
 
 ### End
 
 ```
-rcon localinfo clan off
-rcon timelimit 15
-rcon password none
+rcon pubmode
 rcon map <map>
 ```
 
