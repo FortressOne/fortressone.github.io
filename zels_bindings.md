@@ -1,3 +1,12 @@
+# zel's bindings
+
+The default controls mimic Team Fortress 2 defaults, however I prefer to have
+quick access to all weapons on my mouse.
+
+These controls can be actived with `exec cfg/zeltf_bindings` and saved with
+`cfg_save`.
+
+
 ### Movement
 
 | move forward | <kbd>W</kbd>     | `+forward`   |
