@@ -21,9 +21,9 @@ These controls can be actived with `exec cfg/zeltf_bindings` and saved with
 | fire              | <kbd>MOUSE1</kbd> | `+slot1` |
 | fire secondary    | <kbd>MOUSE2</kbd> | `+slot2` |
 | fire tertiary     | <kbd>MOUSE3</kbd> | `+slot3` |
-| hand grenade      | <kbd>Q</kbd>      | `gren1`   |
-| secondary grenade | <kbd>E</kbd>      | `gren2`   |
-| melee attack      | <kbd>LSHIFT</kbd> | `+slot4`  |
+| hand grenade      | <kbd>Q</kbd>      | `gren1`  |
+| secondary grenade | <kbd>E</kbd>      | `gren2`  |
+| melee attack      | <kbd>LSHIFT</kbd> | `+slot4` |
 
 
 ### Action
