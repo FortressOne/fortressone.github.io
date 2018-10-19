@@ -221,7 +221,7 @@ rcon map <map>
 
 - drop2
 - well6small
-- drop2
+- stag2r
 - fatta1
 - frozen1
 - genders2
@@ -250,5 +250,12 @@ rcon map <map>
 - king
 - koth3
 - 2octa4v1
+
+
+### Pub / Misc
+
+- kotc
+- invade4a
+
 
 Many of these maps will work with less or more players than suggest above.
