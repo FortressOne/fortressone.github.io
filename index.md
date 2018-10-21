@@ -16,9 +16,19 @@ Download and install [FortressOne](https://github.com/FortressOne/fortress-one-i
 _You might get a notifcation that Windows prevented and unknown app from
 running. You can click 'More info' > 'Run anyway'._
 
+
 ### Linux
 
-Coming soon.
+Download [FortressOne](https://github.com/FortressOne/linux-installer/releases/latest).
+
+```bash
+$ ./fortressone.run
+```
+
+_Has been tested for Ubuntu 18.04. It might work on other distros and versions,
+but if it doesn't, please
+[raise an issue](https://github.com/FortressOne/linux-installer/issues/new)
+on GitHub._
 
 
 ## Configuration
