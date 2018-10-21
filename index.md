@@ -34,7 +34,7 @@ on GitHub._
 ## Configuration
 
 Most configuration can be done in-game from the options menu. Save your
-configuration by selecting `Options > Config > Save Settings` or with the
+configuration by selecting 'Options' > 'Config' > 'Save Settings' or with the
 `cfg_save` command.
 
 Team Fortress specific settings are not accessible from the in-game menu. You
