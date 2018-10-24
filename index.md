@@ -11,7 +11,7 @@ title: FortressOne
 
 ### Windows
 
-Download and install [FortressOne for Windows 10](https://github.com/FortressOne/fortress-one-installer/releases/latest).
+Download and install [FortressOne for Windows](https://github.com/FortressOne/fortress-one-installer/releases/latest).
 
 _You might get a notifcation that Windows prevented and unknown app from
 running. You can click 'More info' > 'Run anyway'._
@@ -19,13 +19,13 @@ running. You can click 'More info' > 'Run anyway'._
 
 ### Linux
 
-Download [FortressOne for Ubuntu 18.04](https://github.com/FortressOne/linux-installer/releases/latest).
+Download [FortressOne for Linux](https://github.com/FortressOne/linux-installer/releases/latest).
 
 ```bash
 $ sh fortressone-0.2.1.run
 ```
 
-_Has been tested for Ubuntu 18.04. It might work on other distros and versions,
+_Has been tested for Ubuntu 18.04+. It might work on other distros and versions,
 but if it doesn't, please
 [raise an issue](https://github.com/FortressOne/linux-installer/issues/new)
 on GitHub._
