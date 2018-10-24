@@ -135,7 +135,7 @@ Join the conversation in Discord:
 
 ## Playing on a FortressOne server without the FortressOne package
 
-This is recommended or supported, but if you insist, some of the breaking
+This isn't recommended or supported, but if you insist, some of the breaking
 changes from TF 2.9 are listed below:
 
 * Weapons for all classes can now be found at `impulse 1` through to `impulse
