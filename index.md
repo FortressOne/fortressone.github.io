@@ -22,7 +22,7 @@ running. You can click 'More info' > 'Run anyway'._
 Download [FortressOne for Linux](https://github.com/FortressOne/linux-installer/releases/latest).
 
 ```bash
-$ sh fortressone-0.2.1.run
+$ sh fortressone-0.2.2.run
 ```
 
 _Has been tested for Ubuntu 18.04+. It might work on other distros and versions,
