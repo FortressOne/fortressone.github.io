@@ -122,28 +122,6 @@ Save changes with `cfg_save`.
 [Todo list on FortressOne Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
 
 
-## The stack
-
-FortressOne is minimal curated collection of Quake and Team Fortress related
-files and configurations optimised for competetive play, it includes:
-
-
-| Client    |
-|-----------|----------------------------------------------------------|
-| client    | [ezQuake](https://ezquake.github.io/)                    |
-| Quake gfx | [Quake Revitalization Project](http://qrp.quakeone.com/) |
-| TF gfx    | various sources                                          |
-
-
-It is designed to run with the following server configuration:
-
-| Server          |                                                                                       |
-|-----------------|---------------------------------------------------------------------------------------|
-| server          | [mvdsv](https://github.com/deurk/mvdsv)                                               |
-| server-side mod | [Classic Fortress](http://classicfortress.net/)                                       |
-| server-side cfg | [Classic Fortress server-scripts](https://github.com/Classic-Fortress/server-scripts) |
-
-
 ## Community
 
 Join the conversation in Discord:
@@ -155,11 +133,10 @@ Join the conversation in Discord:
 | Brazil        | heutf            | Portuguese | <https://discord.gg/Ew3NY2Z>      |
 
 
-## A note to those coming from TF 2.8, OZTF and MegaTF
+## Playing on a FortressOne server without the FortressOne package
 
-FortressOne is currently only configured for [this fork](https://github.com/FortressOne/server-qwprogs)
-of the [classic-fortress](http://classicfortress.net) mod, itself a
-continuation of TF 2.9.
+This is recommended or supported, but if you insist, some of the breaking
+changes from TF 2.9 are listed below:
 
 * Weapons for all classes can now be found at `impulse 1` through to `impulse
   4`, with `impulse 5` or `menu` opening the class menu.
@@ -176,7 +153,7 @@ continuation of TF 2.9.
 * Auto ID can be activated with `setinfo ai 1`.
 
 
-## Commands for running a quad on qw://sydney.fortressone.org
+## Commands for running a quad on FortressOne servers
 
 Ensure you have `cl_crypt_rcon 1`.
 
