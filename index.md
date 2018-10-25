@@ -126,11 +126,11 @@ Save changes with `cfg_save`.
 
 Join the conversation in Discord:
 
-| Region        | Mod              | Language   | Invite link                       |
-|---------------|------------------|------------|-----------------------------------|
-| Oceania       | classic-fortress | English    | <https://discord.fortressone.org> |
-| North America | megatf           | English    | <https://discord.gg/FStt9pw>      |
-| Brazil        | heutf            | Portuguese | <https://discord.gg/Ew3NY2Z>      |
+| Region        | Mod              | Language   | Invite link                             |
+|---------------|------------------|------------|-----------------------------------------|
+| Oceania       | classic-fortress | English    | <https://discord.fortressone.org>       |
+| North America | megatf           | English    | <https://discord.megateamfortress.com/> |
+| Brazil        | heutf            | Portuguese | <https://discord.gg/Ew3NY2Z>            |
 
 
 ## Playing on a FortressOne server without the FortressOne package
