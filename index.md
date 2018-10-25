@@ -129,7 +129,7 @@ Join the conversation in Discord:
 | Region        | Mod              | Language   | Invite link                            |
 |---------------|------------------|------------|----------------------------------------|
 | Oceania       | classic-fortress | English    | <https://discord.fortressone.org>      |
-| North America | megatf           | English    | <https://discord.megateamfortress.com> |
+| North America | megatf           | English    | <http://discord.megateamfortress.com> |
 | Brazil        | heutf            | Portuguese | <https://discord.gg/Ew3NY2Z>           |
 
 
