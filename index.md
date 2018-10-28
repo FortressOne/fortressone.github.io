@@ -206,6 +206,7 @@ rcon map <map>
 
 ### 3v3
 
+- 2phaze5r
 - drop2
 - well6small
 - stag2r
@@ -215,6 +216,7 @@ rcon map <map>
 - rs_zz1
 - rstrong
 - egypt
+- optics5
 
 
 ### 4v4
