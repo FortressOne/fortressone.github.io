@@ -198,7 +198,6 @@ rcon map <map>
 - minitf2k
 - mini32s
 - preskool
-- midground2
 - mininoheros
 - desperat
 
