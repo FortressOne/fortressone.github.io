@@ -183,7 +183,6 @@ rcon map <map>
 
 - 1on1r
 - amth1
-- 1on1xs
 - frag
 - sq1
 - soulsq1
