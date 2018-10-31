@@ -122,6 +122,24 @@ Save changes with `cfg_save`.
 [Todo list on FortressOne Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
 
 
+## FortressOne Server
+
+### Install
+
+Download [FortressOne Server for Linux](https://github.com/FortressOne/linux-server-installer/releases/latest).
+
+```bash
+$ sh fortressonesv-0.1.0.run
+```
+
+
+### Run server
+
+```bash
+$ ./mvdsv
+```
+
+
 ## Community
 
 Join the conversation in Discord:
