@@ -227,7 +227,7 @@ rcon map <map>
 - well6
 - tf2k
 - turtler
-- 2fortr5
+- 2fort5r
 - h4rdcore
 - excel
 - cloudy
