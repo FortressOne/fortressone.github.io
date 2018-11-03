@@ -245,6 +245,9 @@ rcon map <map>
 - turtler
 - 2fort5r
 - h4rdcore
+- 32smooth
+- 2night2
+- sewer1
 - excel
 - cloudy
 
