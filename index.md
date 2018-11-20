@@ -69,7 +69,7 @@ Join the conversation in Discord:
 |---------------|------------------|------------|----------------------------------------|
 | Oceania       | classic-fortress | English    | <https://discord.fortressone.org>      |
 | North America | megatf           | English    | <http://discord.megateamfortress.com>  |
-| Brazil        | heutf            | Portuguese | <https://discord.gg/Ew3NY2Z>           |
+| Brazil        | huetf            | Portuguese | <https://discord.gg/Ew3NY2Z>           |
 
 
 ## Playing on a FortressOne server without the FortressOne package
