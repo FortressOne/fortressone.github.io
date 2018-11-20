@@ -8,16 +8,16 @@ title: FortressOne
 
 FortressOne is a stand-alone QuakeWorld Team Fortress (QWTF) package for Windows and Linux.
 
-It is powered by ezQuake 3.1, and includes graphical enhancements from the
-Quake Revitalisation Project, dox's models and Plagues pak, as well as dozens
-of custom improvements.
+It is powered by modified ezQuake 3.1, and includes graphical enhancements from
+the Quake Revitalisation Project, dox's models and Plagues pak, as well as
+dozens of custom improvements.
 
 
 ## Client Installation
 
 ### Windows
 
-Download and install [FortressOne for Windows](https://github.com/FortressOne/windows-installer/releases/latest).
+Download and run the [FortressOne for Windows installer](https://github.com/FortressOne/windows-installer/releases/latest).
 
 _You might get a notifcation that Windows prevented and unknown app from
 running. You can click 'More info' > 'Run anyway'._
@@ -25,10 +25,10 @@ running. You can click 'More info' > 'Run anyway'._
 
 ### Linux
 
-Download [FortressOne for Linux](https://github.com/FortressOne/linux-installer/releases/latest).
+Download the [FortressOne for Linux installer](https://github.com/FortressOne/linux-installer/releases/latest).
 
 ```bash
-$ sh fortressone-0.3.0.run
+$ sh fortressone-linux-installer-1.0.0.run
 ```
 
 _Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and versions,
