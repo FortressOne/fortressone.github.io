@@ -6,10 +6,16 @@ layout: default
 title: FortressOne
 ---
 
-FortressOne is a stand-alone QuakeWorld Team Fortress (QWTF) package for Windows and Linux.
 
-It is powered by modified ezQuake 3.1, and includes graphical enhancements from
-the Quake Revitalisation Project, dox's models and Plagues pak, as well as
+FortressOne is a stand-alone
+[QuakeWorld](https://www.idsoftware.com/en-gb#section-games)
+[Team Fortress](https://web.archive.org/web/20131005123834/http://www.planetfortress.com/teamfortress/)
+(QWTF) package for Windows and Linux.
+
+It is powered by a modified [ezQuake](https://ezquake.github.io/), and includes
+graphical enhancements from the [Quake Revitalisation Project](https://qrp.quakeone.com/),
+[dox's models](https://www.quaddicted.com/webarchive/www.planetfortress.com/tfdone_easy/dox/index.html)
+and [Plagues pak](http://members.optusnet.com.au/~plaguespak/), as well as
 dozens of custom improvements.
 
 
