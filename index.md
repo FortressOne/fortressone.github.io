@@ -25,7 +25,7 @@ dozens of custom improvements.
 
 Download and run the [FortressOne for Windows installer](https://github.com/FortressOne/windows-installer/releases/latest).
 
-_You might get a notifcation that Windows prevented and unknown app from
+_You might get a notification that Windows prevented and unknown app from
 running. You can click 'More info' > 'Run anyway'._
 
 
