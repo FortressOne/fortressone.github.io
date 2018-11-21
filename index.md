@@ -10,7 +10,7 @@ title: FortressOne
 FortressOne is a stand-alone
 [QuakeWorld](https://www.idsoftware.com/en-gb#section-games)
 [Team Fortress](https://web.archive.org/web/20131005123834/http://www.planetfortress.com/teamfortress/)
-(QWTF) package for Windows and Linux.
+package for Windows and Linux.
 
 It is powered by a modified [ezQuake](https://ezquake.github.io/), and includes
 graphical enhancements from the [Quake Revitalisation Project](https://qrp.quakeone.com/),
