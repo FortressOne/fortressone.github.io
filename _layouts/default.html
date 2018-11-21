@@ -41,33 +41,29 @@
     <div class="wrapper">
 
       <section>
-        <div class="flexbox-container">
-          <div id="title">
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
-          </div>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
         </div>
 
-        <div id="under-heading">
-          <div id="logos">
-            <p>
-            <a href="https://discord.fortressone.org">
-              <img src="/assets/images/Discord-Logo+Wordmark-Color.png" alt="Discord" height="30">
-            </a>
-            <a href="https://www.twitch.tv/FortressOne">
-              <img src="/assets/images/Twitch_Purple_RGB.svg" alt="Twitch" height="30">
-            </a>
-            <a href="https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ">
-              <img src="/assets/images/yt_logo_rgb_dark.png" alt="YouTube" height="30">
-            </a>
-            <a href="https://github.com/FortressOne">
-              <img src="/assets/images/GitHub_Logo_White.png" alt="GitHub" height="30">
-            </a>
-            <a href="https://www.pivotaltracker.com/n/projects/2176336">
-              <img src="/assets/images/Tracker_Half_Stacked.svg" alt="Pivotal Tracker" height="30">
-            </a>
-            </p>
-          </div>
+        <div id="logos">
+          <p>
+          <a href="https://discord.fortressone.org">
+            <img src="/assets/images/Discord-Logo+Wordmark-Color.png" alt="Discord">
+          </a>
+          <a href="https://www.twitch.tv/FortressOne">
+            <img src="/assets/images/Twitch_Purple_RGB.svg" alt="Twitch">
+          </a>
+          <a href="https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ">
+            <img src="/assets/images/yt_logo_rgb_dark.png" alt="YouTube">
+          </a>
+          <a href="https://github.com/FortressOne">
+            <img src="/assets/images/GitHub_Logo_White.png" alt="GitHub">
+          </a>
+          <a href="https://www.pivotaltracker.com/n/projects/2176336">
+            <img src="/assets/images/Tracker_Half_Stacked.svg" alt="Pivotal Tracker">
+          </a>
+          </p>
         </div>
 
         {{ content }}
