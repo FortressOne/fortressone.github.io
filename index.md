@@ -65,11 +65,12 @@ $ ./mvdsv
 
 Join the conversation in Discord:
 
-| Region        | Mod         | Language   | Invite link                            |
-|---------------|-------------|------------|----------------------------------------|
-| Oceania       | fortressone | English    | <https://discord.fortressone.org>      |
-| North America | megatf      | English    | <http://discord.megateamfortress.com>  |
-| Brazil        | huetf       | Portuguese | <https://discord.gg/Ew3NY2Z>           |
+| Region        | Mod                                                          | Language   | Invite link                           |
+|---------------|--------------------------------------------------------------|------------|---------------------------------------|
+| Oceania       | [fortressone](https://github.com/FortressOne/server-qwprogs) | English    | <https://discord.fortressone.org>     |
+| North America | [megatf](https://github.com/alissa0/MegaTFCE)                | English    | <http://discord.megateamfortress.com> |
+| Brazil        | [huetf](https://github.com/gmtandi/huetf)                    | Portuguese | <https://discord.gg/Ew3NY2Z>          |
+| Russia        | [TF2003](https://github.com/angeld29/TF2003-qvm)             | Russian    | <https://discord.gg/FVuG7br>          |
 
 
 ## Playing on a FortressOne server without the FortressOne package
