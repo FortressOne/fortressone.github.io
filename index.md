@@ -73,27 +73,23 @@ Join the conversation in Discord:
 | Russia        | [TF2003](https://github.com/angeld29/TF2003-qvm)             | Russian    | <https://discord.gg/FVuG7br>          |
 
 
-## Playing on a FortressOne server without the FortressOne package
-
-This isn't recommended or supported, but if you insist, some of the breaking
-changes from TF 2.9 are listed below:
+## Differences from Team Fortress 2.9
 
 * Weapons for all classes can now be found at `impulse 1` through to `impulse
   4`, with `impulse 5` or `menu` opening the class menu.
 * `+slot1` through to `+slot4` quickly fire an alternative weapon then select
   the previous weapn. E.g. With RL as the active weapon, `+slot4` will swing
   the axe before switching back to the RL.
+* For push to prime, and again to throw grenades, bind a key to `gren1` or
+  `gren2`.
 * A `reload_next` command has been added to reload the next alternative weapon.
-* You can disable the server-side grenade timer with `setinfo nt 2`.
-* For push to prime, and again to throw, bind a key to `gren1` or `gren2`.
-* The command to throw the flag has been changed from `dropitems` to
-  `dropflag`.
 * Status bar can be enabled and positioned with `setinfo sb n` where n is the
   number of newlines from the top of your screen.
 * Auto ID can be activated with `setinfo ai 1`.
+* You can optionally enable a server-side grenade timer with `setinfo nt 2`.
 
 
-## Commands for running a quad on FortressOne servers
+## Running a quad on FortressOne servers
 
 Ensure you have `cl_crypt_rcon 1`. (This is default in the FortressOne client)
 
@@ -106,6 +102,7 @@ rcon map <map>
 ```
 
 Ask in the [Discord server](https://discord.fortressone.org) for the password.
+
 
 
 ### End
