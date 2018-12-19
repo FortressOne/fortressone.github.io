@@ -113,6 +113,14 @@ rcon map <map>
 ```
 
 
+### Download demo
+
+```
+cmd dlist
+cmd dl <demo_id>
+```
+
+
 ## Maps
 
 
