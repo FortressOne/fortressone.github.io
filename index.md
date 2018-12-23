@@ -7,7 +7,7 @@ title: FortressOne
 ---
 
 
-FortressOne is a stand-alone
+FortressOne is an all in one
 [QuakeWorld](https://www.idsoftware.com/en-gb#section-games)
 [Team Fortress](https://web.archive.org/web/20131005123834/http://www.planetfortress.com/teamfortress/)
 package for Windows and Linux.
