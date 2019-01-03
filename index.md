@@ -193,4 +193,4 @@ cmd dl <demo_id>
 - invade4a
 
 
-Many of these maps will work with less or more players than suggest above.
+Many of these maps will work with less or more players than suggested above.
