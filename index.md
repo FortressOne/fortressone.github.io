@@ -7,23 +7,19 @@ title: FortressOne
 ---
 
 
-FortressOne is an all in one
-[QuakeWorld](https://www.idsoftware.com/en-gb#section-games)
-[Team Fortress](https://web.archive.org/web/20131005123834/http://www.planetfortress.com/teamfortress/)
-package for Windows and Linux.
+FortressOne is an all in one [QuakeWorld][] [Team Fortress][] package for
+Windows and Linux.
 
-It is powered by a modified [ezQuake](https://ezquake.github.io/), and includes
-graphical enhancements from the [Quake Revitalisation Project](https://qrp.quakeone.com/),
-[dox's models](https://www.quaddicted.com/webarchive/www.planetfortress.com/tfdone_easy/dox/index.html)
-and [Plagues pak](http://members.optusnet.com.au/~plaguespak/), as well as
-dozens of custom improvements.
+It is powered by a modified [ezQuake][], and includes graphical enhancements
+from the [Quake Revitalisation Project][], [dox's models][] and
+[Plagues pak][], as well as dozens of custom improvements.
 
 
 ## Client Installation
 
 ### Windows
 
-Download and run the [FortressOne for Windows installer](https://github.com/FortressOne/windows-installer/releases/latest).
+Download and run the [FortressOne for Windows installer][].
 
 _You might get a notification that Windows prevented and unknown app from
 running. You can click 'More info' > 'Run anyway'._
@@ -31,23 +27,21 @@ running. You can click 'More info' > 'Run anyway'._
 
 ### Linux
 
-Download the [FortressOne for Linux installer](https://github.com/FortressOne/linux-installer/releases/latest).
+Download the [FortressOne for Linux installer][].
 
 ```bash
 $ sh fortressone-linux-installer-1.0.0.run
 ```
 
-_Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and versions,
-but if it doesn't, please
-[raise an issue](https://github.com/FortressOne/linux-installer/issues/new)
-on GitHub._
+_Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
+versions, but if it doesn't, please [raise an issue][] on GitHub._
 
 
 ## Server Installation
 
 ### Linux
 
-Download [FortressOne Server for Linux](https://github.com/FortressOne/linux-server-installer/releases/latest).
+Download [FortressOne Server for Linux][].
 
 ```bash
 $ sh fortressonesv-0.1.0.run
@@ -61,37 +55,7 @@ $ ./mvdsv
 ```
 
 
-## Community
-
-Join the conversation in Discord:
-
-| Region        | Mod                                                          | Language   | Invite link                           |
-|---------------|--------------------------------------------------------------|------------|---------------------------------------|
-| Oceania       | [fortressone](https://github.com/FortressOne/server-qwprogs) | English    | <https://discord.fortressone.org>     |
-| North America | [megatf](https://github.com/alissa0/MegaTFCE)                | English    | <http://discord.megateamfortress.com> |
-| Brazil        | [huetf](https://github.com/gmtandi/huetf)                    | Portuguese | <https://discord.gg/Ew3NY2Z>          |
-| Russia        | [TF2003](https://github.com/angeld29/TF2003-qvm)             | Russian    | <https://discord.gg/FVuG7br>          |
-
-
-## Differences from Team Fortress 2.9
-
-* Weapons for all classes can now be found at `impulse 1` through to `impulse
-  4`, with `impulse 5` or `menu` opening the class menu.
-* `+slot1` through to `+slot4` quickly fire an alternative weapon then select
-  the previous weapn. E.g. With RL as the active weapon, `+slot4` will swing
-  the axe before switching back to the RL.
-* For push to prime, and again to throw grenades, bind a key to `gren1` or
-  `gren2`.
-* A `reload_next` command has been added to reload the next alternative weapon.
-* Status bar can be enabled and positioned with `setinfo sb n` where n is the
-  number of newlines from the top of your screen.
-* Auto ID can be activated with `setinfo ai 1`.
-* You can optionally enable a server-side grenade timer with `setinfo nt 2`.
-
-
 ## Running a quad on FortressOne servers
-
-Ensure you have `cl_crypt_rcon 1`. (This is default in the FortressOne client)
 
 ### Begin
 
@@ -100,9 +64,6 @@ rcon_password <password>
 rcon quadmode
 rcon map <map>
 ```
-
-Ask in the [Discord server](https://discord.fortressone.org) for the password.
-
 
 
 ### End
@@ -121,8 +82,44 @@ cmd dl <demo_id>
 ```
 
 
+## Community
+
+| Region        | Mod                 | Language   | Invite                      |
+|---------------|---------------------|------------|-----------------------------|
+| Oceania       | [FortressOne mod][] | English    | [FortressOne Discord][]     |
+| North America | [MegaTF][]          | English    | [QWTF NA Discord][]         |
+| Brazil        | [hueTF][]           | Portuguese | [Quadclub Brasil Discord][] |
+| Russia        | [TF2003][]          | Russian    | [QWTF.RU Discord][]         |
+
+
+## FortressOne Mod
+
+The [FortressOne mod][] is a continuation of the [Classic Fortress][] mod,
+itself a fork of the original Team Fortress 2.9.
+
+
+### Config changes from Team Fortress 2.9
+
+_This is only relevant to those not using the FortressOne client._
+
+* Weapons for all classes can now be found at `impulse 1` through to `impulse
+  4`, with `impulse 5` or `menu` opening the class menu.
+* `+slot1` through to `+slot4` quickly fire an alternative weapon then select
+  the previous weapn. E.g. With RL as the active weapon, `+slot4` will swing
+  the axe before switching back to the RL.
+* For push to prime, and again to throw grenades, bind a key to `gren1` or
+  `gren2`.
+* A `reload_next` command has been added to reload the next alternative weapon.
+* Status bar can be enabled and positioned with `setinfo sb n` where n is the
+  number of newlines from the top of your screen.
+* Auto ID can be activated with `setinfo ai 1`.
+* You can optionally enable a server-side grenade timer with `setinfo nt 2`.
+
+
 ## Maps
 
+There are thousands of QuakeWorld Team Fortress maps. This is a curated list
+mostly to remind me of the most playable maps.
 
 ### 1v1
 
@@ -130,7 +127,6 @@ cmd dl <demo_id>
 - amth1
 - frag
 - sq1
-- soulsq1
 - 1on1forts
 - well1on1
 
@@ -145,6 +141,7 @@ cmd dl <demo_id>
 - preskool
 - mininoheros
 - desperat
+- 2mach1
 
 
 ### 3v3
@@ -158,7 +155,6 @@ cmd dl <demo_id>
 - genders2
 - rs_zz1
 - rstrong
-- egypt
 - optics5r
 
 
@@ -177,6 +173,7 @@ cmd dl <demo_id>
 - sewer1
 - excel
 - cloudy
+- ff_schtopfull
 
 
 ### 4-team
@@ -194,3 +191,24 @@ cmd dl <demo_id>
 
 
 Many of these maps will work with less or more players than suggested above.
+
+
+[QuakeWorld]:                        https://www.idsoftware.com/en-gb#section-games
+[Team Fortress]:                     https://web.archive.org/web/20131005123834/http://www.planetfortress.com/teamfortress/
+[ezQuake]:                           https://ezquake.github.io/
+[Quake Revitalisation Project]:      https://qrp.quakeone.com/
+[dox's models]:                      https://www.quaddicted.com/webarchive/www.planetfortress.com/tfdone_easy/dox/index.html
+[Plagues pak]:                       http://members.optusnet.com.au/~plaguespak/
+[FortressOne for Windows installer]: https://github.com/FortressOne/windows-installer/releases/latest
+[FortressOne for Linux installer]:   https://github.com/FortressOne/linux-installer/releases/latest
+[raise an issue]:                    https://github.com/FortressOne/linux-installer/issues/new
+[FortressOne Server for Linux]:      https://github.com/FortressOne/linux-server-installer/releases/latest
+[FortressOne mod]:                   https://github.com/FortressOne/server-qwprogs
+[FortressOne Discord]:               https://discord.fortressone.org
+[MegaTF]:                            https://github.com/alissa0/MegaTFCE
+[QWTF NA Discord]:                   http://discord.megateamfortress.com
+[hueTF]:                             https://github.com/gmtandi/huetf
+[Quadclub Brasil Discord]:           https://discord.gg/Ew3NY2Z
+[TF2003]:                            https://github.com/angeld29/TF2003-qvm
+[QWTF.RU Discord]:                   https://discord.gg/FVuG7br
+[Classic Fortress]:                  http://classicfortress.net/
