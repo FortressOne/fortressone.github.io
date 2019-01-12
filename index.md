@@ -113,6 +113,7 @@ _This is only relevant to those not using the FortressOne client._
 * Status bar can be enabled and positioned with `setinfo sb n` where n is the
   number of newlines from the top of your screen.
 * Auto ID can be activated with `setinfo ai 1`.
+* Reading of class config files can be activated with `setinfo ec 1`.
 * You can optionally enable a server-side grenade timer with `setinfo nt 2`.
 
 
