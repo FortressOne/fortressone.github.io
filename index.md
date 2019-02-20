@@ -60,17 +60,18 @@ $ ./mvdsv
 ### Begin
 
 ```
-rcon_password <password>
-rcon quadmode
-rcon map <map>
+cmd adminpwd <adminpwd>
+quadmode
+cmd map <map>
 ```
 
 
 ### End
 
 ```
-rcon pubmode
-rcon map <map>
+quadmode
+cmd timelimit 35
+cmd map <map>
 ```
 
 
