@@ -44,7 +44,7 @@ versions, but if it doesn't, please [raise an issue][] on GitHub._
 Download [FortressOne Server for Linux][].
 
 ```bash
-$ sh fortressonesv-0.1.0.run
+$ sh fortressonesv-0.1.1.run
 ```
 
 
