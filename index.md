@@ -51,7 +51,7 @@ $ sh fortressonesv-0.1.0.run
 ### Usage
 
 ```bash
-$ ./mvdsv
+$ ./mvdsv -heapsize 256000
 ```
 
 
