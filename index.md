@@ -175,7 +175,10 @@ mostly to remind me of the most playable maps.
 - sewer1
 - excel
 - cloudy
-- ff_schtopfull
+- ff-schtop
+- ff-destroy
+- ff-shutdown2
+- mordor2
 
 
 ### 4-team
