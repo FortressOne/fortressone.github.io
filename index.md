@@ -123,18 +123,18 @@ _This is only relevant to those not using the FortressOne client._
 There are thousands of QuakeWorld Team Fortress maps. This is a curated list
 mostly to remind me of the most playable maps.
 
-### 1v1
+### Duel
 
 - 1on1r
 - amth1
-- frag
 - sq1
 - 1on1forts
 - well1on1
 
 
-### 2v2
+### Tiny
 
+- frag
 - poop
 - xpress3
 - xpress2
@@ -144,11 +144,12 @@ mostly to remind me of the most playable maps.
 - mininoheros
 - desperat
 - 2mach1
-
-
-### 3v3
-
+- midground
 - 2phaze5r
+
+
+### Small
+
 - drop2
 - well6small
 - stag2r
@@ -160,25 +161,30 @@ mostly to remind me of the most playable maps.
 - optics5r
 
 
-### 4v4
+### Medium
 
 - mbasesl
 - bam4
-- blitzkrieg2
 - well6
 - tf2k
-- turtler
 - 2fort5r
 - h4rdcore
 - 32smooth
 - 2night2
 - sewer1
-- excel
 - cloudy
 - ff-schtop
 - ff-destroy
-- ff-shutdown2
 - mordor2
+
+
+### Large
+- turtler
+- excel
+- ff-monkey
+- ff-aardvark
+- ff-shutdown2
+- blitzkrieg2
 
 
 ### 4-team
@@ -193,9 +199,6 @@ mostly to remind me of the most playable maps.
 
 - kotc
 - invade4a
-
-
-Many of these maps will work with less or more players than suggested above.
 
 
 [QuakeWorld]:                        https://www.idsoftware.com/en-gb#section-games
