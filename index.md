@@ -37,17 +37,6 @@ _Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
 versions, but if it doesn't, please [raise an issue][] on GitHub._
 
 
-## Server Installation
-
-### Linux
-
-Download [FortressOne Server for Linux][].
-
-```bash
-$ sh fortressonesv-0.1.1.run
-```
-
-
 ### Usage
 
 ```bash
@@ -157,7 +146,6 @@ mostly to remind me of the most playable maps.
 - frozen1
 - genders2
 - rs_zz1
-- rstrong
 - optics5r
 
 
@@ -168,10 +156,8 @@ mostly to remind me of the most playable maps.
 - well6
 - tf2k
 - 2fort5r
-- h4rdcore
-- 32smooth
-- 2night2
 - sewer1
+- rstrong
 - cloudy
 - ff-schtop
 - ff-destroy
@@ -179,12 +165,15 @@ mostly to remind me of the most playable maps.
 
 
 ### Large
+- 2night2
+- h4rdcore
 - turtler
+- blitzkrieg2
+- 32smooth
 - excel
 - ff-monkey
 - ff-aardvark
 - ff-shutdown2
-- blitzkrieg2
 
 
 ### 4-team
