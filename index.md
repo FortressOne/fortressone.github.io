@@ -37,13 +37,6 @@ _Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
 versions, but if it doesn't, please [raise an issue][] on GitHub._
 
 
-### Usage
-
-```bash
-$ ./mvdsv -heapsize 256000
-```
-
-
 ## Running a quad on FortressOne servers
 
 ### Begin
