@@ -155,6 +155,7 @@ mostly to remind me of the most playable maps.
 - ff-schtop
 - ff-destroy
 - mordor2
+- ff-phantom
 
 
 ### Large
@@ -167,6 +168,7 @@ mostly to remind me of the most playable maps.
 - ff-monkey
 - ff-aardvark
 - ff-shutdown2
+- lastresort
 
 
 ### 4-team
