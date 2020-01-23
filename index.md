@@ -95,13 +95,13 @@ _This is only relevant to those not using the FortressOne client._
 | Name    | Role                         |
 |---------|------------------------------|
 | zel     | Lead, development, community |
-| lordy   | Mod development, map creator |
-| meht    | Development                  |
+| lordy   | Mod development, mapping     |
+| meht    | Mod development              |
 | Spoike  | FTE development              |
-| Twi-    | Art                          |
-| novate  | QA                           |
-| EvilAnt | Development, mapping         |
+| EvilAnt | Mod development, mapping, QA |
+| Twi-    | Art, QA                      |
 | klown   | Mapping, community           |
+| novate  | QA                           |
 | loki    | Operations                   |
 
 FortressOne is built on or inspired by ID Software's Quake, Team Fortress
