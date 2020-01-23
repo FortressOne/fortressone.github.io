@@ -65,16 +65,6 @@ cmd dl <demo_id>
 ```
 
 
-## Community
-
-| Region        | Mod                 | Language   | Invite                      |
-|---------------|---------------------|------------|-----------------------------|
-| Oceania       | [FortressOne mod][] | English    | [FortressOne Discord][]     |
-| North America | [MegaTF][]          | English    | [QWTF NA Discord][]         |
-| Brazil        | [hueTF][]           | Portuguese | [Quadclub Brasil Discord][] |
-| Russia        | [TF2003][]          | Russian    | [QWTF.RU Discord][]         |
-
-
 ## FortressOne Mod
 
 The [FortressOne mod][] is a continuation of the [Classic Fortress][] mod,
@@ -98,6 +88,25 @@ _This is only relevant to those not using the FortressOne client._
 * Auto ID can be activated with `setinfo ai 1`.
 * Reading of class config files can be activated with `setinfo ec 1`.
 * You can optionally enable a server-side grenade timer with `setinfo nt 2`.
+
+
+## Team
+
+| Name    | Role                         |
+|---------|------------------------------|
+| zel     | Lead, development, community |
+| lordy   | Mod development, map creator |
+| meht    | Development                  |
+| Spoike  | FTE development              |
+| Twi-    | Art                          |
+| novate  | QA                           |
+| EvilAnt | Development, mapping         |
+| klown   | Mapping, community           |
+| loki    | Operations                   |
+
+FortressOne is built on or inspired by ID Software's Quake, Team Fortress
+Software's Team Fortress, zQuake, fuhQuake, ezQuake, FTE Quake, ozTF, hueTF,
+Classic Fortress and Fortress Forever.
 
 
 ## Maps
@@ -140,6 +149,7 @@ mostly to remind me of the most playable maps.
 - genders2
 - rs_zz1
 - optics5r
+- japanc
 
 
 ### Medium
