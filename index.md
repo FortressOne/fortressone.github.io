@@ -114,85 +114,37 @@ Classic Fortress and Fortress Forever.
 There are thousands of QuakeWorld Team Fortress maps. This is a curated list
 mostly to remind me of the most playable maps.
 
-### Duel
 
-- 1on1r
-- amth1
-- sq1
-- 1on1forts
-- well1on1
+### Capture the flag
 
-
-### Tiny
-
-- frag
-- poop
-- xpress3
-- xpress2
-- minitf2k
-- mini32s
-- preskool
-- mininoheros
-- desperat
-- 2mach1
-- midground
-- 2phaze5r
+| Tiny        | Small      | Medium     | Large        |
+| ---         | ---        | ---        | ---          |
+| poop        | drop2      | mbasesr    | 2night2      |
+| xpress3     | well6small | bam4       | h4rdcore     |
+| xpress2     | stag3r     | well6      | turtler      |
+| minitf2k    | fatta1     | tf2k       | blitzkrieg2  |
+| mini32s     | frozen1    | 2fort5r    | 32smooth     |
+| preskool    | genders2   | sewer1     | excel        |
+| mininoheros | rs\_zz1    | rstrong    | ff-monkey    |
+| desperat    | optics5r   | cloudy     | ff-aardvark  |
+| 2mach1      | japanc     | ff-schtop  | ff-shutdown2 |
+| midground   | 2machse    | ff-destroy | lastresort   |
+| 2phaze5r    |            | mordor2    |              |
+|             |            | ff-phantom
 
 
-### Small
-
-- drop2
-- well6small
-- stag2r
-- fatta1
-- frozen1
-- genders2
-- rs_zz1
-- optics5r
-- japanc
+### Other
 
 
-### Medium
+| Duel      | Four-team | Misc     |
+| ---       | ---       | ---      |
+| frag      | spaz4     | kotc     |
+| 1on1r     | king      | invade4a |
+| amth1     | koth3     |          |
+| sq1       | 2octa4v1  |          |
+| 1on1forts |           |          |
+| well1on1  |           |          |
 
-- mbasesl
-- bam4
-- well6
-- tf2k
-- 2fort5r
-- sewer1
-- rstrong
-- cloudy
-- ff-schtop
-- ff-destroy
-- mordor2
-- ff-phantom
-
-
-### Large
-- 2night2
-- h4rdcore
-- turtler
-- blitzkrieg2
-- 32smooth
-- excel
-- ff-monkey
-- ff-aardvark
-- ff-shutdown2
-- lastresort
-
-
-### 4-team
-
-- spaz4
-- king
-- koth3
-- 2octa4v1
-
-
-### Pub / Misc
-
-- kotc
-- invade4a
 
 
 [QuakeWorld]:                        https://www.idsoftware.com/en-gb#section-games
