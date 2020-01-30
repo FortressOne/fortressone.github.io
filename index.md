@@ -94,7 +94,7 @@ _This is only relevant to those not using the FortressOne client._
 
 | Name    | Role                         |
 |---------|------------------------------|
-| zel     | Lead, development, community |
+| zel     | Development, community |
 | lordy   | Mod development, mapping     |
 | meht    | Mod development              |
 | Spoike  | FTE development              |
