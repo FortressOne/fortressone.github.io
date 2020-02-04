@@ -23,6 +23,7 @@ It is powered by a modified [ezQuake][], and includes graphical enhancements
 from the [Quake Revitalisation Project][], [dox's models][] and
 [Plagues pak][], as well as dozens of custom improvements.
 
+
 ## Install
 
 ### Windows
@@ -45,30 +46,10 @@ _Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
 versions, but if it doesn't, please [raise an issue][] on GitHub._
 
 
-## Team
-
-| Name    | Role                         |
-|---------|------------------------------|
-| zel     | Development, community |
-| lordy   | Mod development, mapping     |
-| meht    | Mod development              |
-| Spoike  | FTE development              |
-| EvilAnt | Mod development, mapping, QA |
-| Twi-    | Art, QA                      |
-| klown   | Mapping, community           |
-| novate  | QA                           |
-| loki    | Operations                   |
-
-FortressOne is built on or inspired by ID Software's Quake, Team Fortress
-Software's Team Fortress, zQuake, fuhQuake, ezQuake, FTE Quake, ozTF, hueTF,
-Classic Fortress and Fortress Forever.
-
-
 ## Maps
 
 There are thousands of QuakeWorld Team Fortress maps. This is a curated list
 mostly to remind me of the most playable maps.
-
 
 ### Capture the flag
 
@@ -90,7 +71,6 @@ mostly to remind me of the most playable maps.
 
 ### Other
 
-
 | Duel      | Four-team | Misc     |
 | ---       | ---       | ---      |
 | frag      | spaz4     | kotc     |
@@ -100,6 +80,24 @@ mostly to remind me of the most playable maps.
 | 1on1forts |           |          |
 | well1on1  |           |          |
 
+
+## Team
+
+| Name    | Role                         |
+|---------|------------------------------|
+| zel     | Development, community |
+| lordy   | Mod development, mapping     |
+| meht    | Mod development              |
+| Spoike  | FTE development              |
+| EvilAnt | Mod development, mapping, QA |
+| Twi-    | Art, QA                      |
+| klown   | Mapping, community           |
+| novate  | QA                           |
+| loki    | Operations                   |
+
+FortressOne is built on or inspired by ID Software's Quake, Team Fortress
+Software's Team Fortress, zQuake, fuhQuake, ezQuake, FTE Quake, ozTF, hueTF,
+Classic Fortress and Fortress Forever.
 
 
 [QuakeWorld]:                        https://www.idsoftware.com/en-gb#section-games
