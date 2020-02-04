@@ -6,6 +6,15 @@ layout: default
 title: FortressOne
 ---
 
+<p style="text-align: center;">
+  <a href="https://discord.fortressone.org">Discord</a> |
+  <a href="https://www.twitch.tv/FortressOne">Twitch</a> |
+  <a href="https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ">YouTube</a> |
+  <a href="https://www.reddit.com/r/FortressOne">Reddit</a> |
+  <a href="https://twitter.com/fortress_one">Twitter</a> |
+  <a href="https://github.com/FortressOne">GitHub</a> |
+  <a href="https://www.pivotaltracker.com/n/projects/2176336">Pivotal Tracker</a>
+</p>
 
 FortressOne is an all in one [QuakeWorld][] [Team Fortress][] package for
 Windows and Linux.
@@ -14,8 +23,7 @@ It is powered by a modified [ezQuake][], and includes graphical enhancements
 from the [Quake Revitalisation Project][], [dox's models][] and
 [Plagues pak][], as well as dozens of custom improvements.
 
-
-## Client Installation
+## Install
 
 ### Windows
 
@@ -30,64 +38,11 @@ running. You can click 'More info' > 'Run anyway'._
 Download the [FortressOne for Linux installer][].
 
 ```bash
-$ sh fortressone-linux-installer-1.0.0.run
+$ sh fortressone-linux-installer-1.0.1.run
 ```
 
 _Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
 versions, but if it doesn't, please [raise an issue][] on GitHub._
-
-
-## Running a quad on FortressOne servers
-
-### Begin
-
-```
-cmd adminpwd <adminpwd>
-quadmode
-cmd map <map>
-```
-
-
-### End
-
-```
-quadmode
-cmd timelimit 35
-cmd map <map>
-```
-
-
-### Download demo
-
-```
-cmd dlist
-cmd dl <demo_id>
-```
-
-
-## FortressOne Mod
-
-The [FortressOne mod][] is a continuation of the [Classic Fortress][] mod,
-itself a fork of the original Team Fortress 2.9.
-
-
-### Config changes from Team Fortress 2.9
-
-_This is only relevant to those not using the FortressOne client._
-
-* Weapons for all classes can now be found at `impulse 1` through to `impulse
-  4`, with `impulse 5` or `menu` opening the class menu.
-* `+slot1` through to `+slot4` quickly fire an alternative weapon then select
-  the previous weapn. E.g. With RL as the active weapon, `+slot4` will swing
-  the axe before switching back to the RL.
-* For push to prime, and again to throw grenades, bind a key to `gren1` or
-  `gren2`.
-* A `reload_next` command has been added to reload the next alternative weapon.
-* Status bar can be enabled and positioned with `setinfo sb n` where n is the
-  number of newlines from the top of your screen.
-* Auto ID can be activated with `setinfo ai 1`.
-* Reading of class config files can be activated with `setinfo ec 1`.
-* You can optionally enable a server-side grenade timer with `setinfo nt 2`.
 
 
 ## Team
