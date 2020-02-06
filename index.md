@@ -1,20 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+## Feel free to add content and custom Front Matter to this file.
+## To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
 title: FortressOne
 ---
-
-<p style="text-align: center;">
-  <a href="https://discord.fortressone.org">Discord</a> |
-  <a href="https://www.twitch.tv/FortressOne">Twitch</a> |
-  <a href="https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ">YouTube</a> |
-  <a href="https://www.reddit.com/r/FortressOne">Reddit</a> |
-  <a href="https://twitter.com/fortress_one">Twitter</a> |
-  <a href="https://github.com/FortressOne">GitHub</a> |
-  <a href="https://www.pivotaltracker.com/n/projects/2176336">Pivotal Tracker</a>
-</p>
 
 FortressOne is an all in one [QuakeWorld][] [Team Fortress][] package for
 Windows and Linux.
@@ -24,26 +14,22 @@ from the [Quake Revitalisation Project][], [dox's models][] and
 [Plagues pak][], as well as dozens of custom improvements.
 
 
-## Install
+## Download
 
-### Windows
-
-Download and run the [FortressOne for Windows installer][].
-
-_You might get a notification that Windows prevented and unknown app from
-running. You can click 'More info' > 'Run anyway'._
+- [Windows](https://github.com/FortressOne/windows-installer/releases/latest)
+- [Ubuntu 18.04+](https://github.com/FortressOne/linux-installer/releases/latest)
 
 
-### Linux
+## Links
 
-Download the [FortressOne for Linux installer][].
-
-```bash
-$ sh fortressone-linux-installer-1.0.1.run
-```
-
-_Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
-versions, but if it doesn't, please [raise an issue][] on GitHub._
+- [Discord](https://discord.fortressone.org)
+- [Twitch](https://www.twitch.tv/FortressOne)
+- [YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)
+- [Reddit](https://www.reddit.com/r/FortressOne)
+- [Twitter](https://twitter.com/fortress_one)
+- [GitHub](https://github.com/FortressOne)
+- [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
+- [Demos](https://demos.fortressone.org)
 
 
 ## Maps
@@ -83,24 +69,25 @@ mostly to remind me of the most playable maps.
 
 ## Team
 
-| Name    | Role                         |
-|---------|------------------------------|
-| zel     | Development, community |
-| lordy   | Mod development, mapping     |
-| meht    | Mod development              |
-| Spoike  | FTE development              |
-| EvilAnt | Mod development, mapping, QA |
-| Twi-    | Art, QA                      |
-| klown   | Mapping, community           |
-| novate  | QA                           |
-| loki    | Operations                   |
+| Name      | Role                         |
+|-----------|------------------------------|
+| zel       | Development, community       |
+| lordy     | Mod development, mapping     |
+| meht      | Mod development              |
+| Spoike    | FTE development              |
+| EvilAnt   | Mod development, mapping, QA |
+| Twi-      | Art, QA                      |
+| klown     | Mapping, community           |
+| novate    | QA                           |
+| loki      | Operations                   |
+| Wolverine | Ambassador
 
 FortressOne is built on or inspired by ID Software's Quake, Team Fortress
 Software's Team Fortress, zQuake, fuhQuake, ezQuake, FTE Quake, ozTF, hueTF,
 Classic Fortress and Fortress Forever.
 
 
-[QuakeWorld]:                        https://www.idsoftware.com/en-gb#section-games
+[QuakeWorld]:                        https://www.idsoftware.com/en-gb##section-games
 [Team Fortress]:                     https://web.archive.org/web/20131005123834/http://www.planetfortress.com/teamfortress/
 [ezQuake]:                           https://ezquake.github.io/
 [Quake Revitalisation Project]:      https://qrp.quakeone.com/
