@@ -80,7 +80,7 @@ mostly to remind me of the most playable maps.
 | klown     | Mapping, community           |
 | novate    | QA                           |
 | loki      | Operations                   |
-| Wolverine | Ambassador
+| Wolverine | Business Development Manager |
 
 FortressOne is built on or inspired by ID Software's Quake, Team Fortress
 Software's Team Fortress, zQuake, fuhQuake, ezQuake, FTE Quake, ozTF, hueTF,
