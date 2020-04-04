@@ -55,14 +55,12 @@ from the [Quake Revitalisation Project][], [dox's models][] and
 ## Watch live on Twitch
 
 <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
-<div id="<player div ID>"></div>
+<div id="twitch-player"></div>
 <script type="text/javascript">
   var options = {
-    <!-- width: <width>, -->
-    <!-- height: <height>, -->
     channel: "fortressone",
   };
-  var player = new Twitch.Player("<player div ID>", options);
+  var player = new Twitch.Player("twitch-player", options);
   player.setVolume(0.5);
 </script>
 
