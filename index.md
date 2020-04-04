@@ -14,22 +14,58 @@ from the [Quake Revitalisation Project][], [dox's models][] and
 [Plagues pak][], as well as dozens of custom improvements.
 
 
-## Download
+<div style="display: flex; justify-content: space-between;">
+<div markdown="1">
 
-- [Windows](https://github.com/FortressOne/windows-installer/releases/latest)
-- [Ubuntu 18.04+](https://github.com/FortressOne/linux-installer/releases/latest)
+## Play
 
+[Windows](https://github.com/FortressOne/windows-installer/releases/latest)<br>
+[Ubuntu 18.04+](https://github.com/FortressOne/linux-installer/releases/latest)
+
+</div>
+<div markdown="1">
+
+## Community
+
+[Discord](https://discord.fortressone.org)<br>
+[Reddit](https://www.reddit.com/r/FortressOne)<br>
+[YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)
+[Twitter](https://twitter.com/fortress_one)
+
+</div>
+<div markdown="1">
+
+## Code
+
+[GitHub](https://github.com/FortressOne)<br>
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
+
+</div>
+<div markdown="1">
 
 ## Links
 
-- [Discord](https://discord.fortressone.org)
-- [Twitch](https://www.twitch.tv/FortressOne)
-- [YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)
-- [Reddit](https://www.reddit.com/r/FortressOne)
-- [Twitter](https://twitter.com/fortress_one)
-- [GitHub](https://github.com/FortressOne)
-- [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
-- [Demos](https://demos.fortressone.org)
+[Demos](https://demos.fortressone.org)<br>
+[Stats](http://fortressone-stats.s3-website-ap-southeast-2.amazonaws.com/)
+
+</div>
+</div>
+
+
+## Watch live on Twitch
+
+<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+<div id="<player div ID>"></div>
+<script type="text/javascript">
+  var options = {
+    <!-- width: <width>, -->
+    <!-- height: <height>, -->
+    channel: "fortressone",
+  };
+  var player = new Twitch.Player("<player div ID>", options);
+  player.setVolume(0.5);
+</script>
+
 
 
 ## Maps
@@ -42,7 +78,7 @@ mostly to remind me of the most playable maps.
 | Tiny        | Small      | Medium     | Large        |
 | ---         | ---        | ---        | ---          |
 | poop        | drop2      | mbasesr    | 2night2      |
-| xpress3     | well6small | bam4       | h4rdcore     |
+| xpress3     | well6small | bam5       | h4rdcore     |
 | xpress2     | stag3r     | well6      | turtler      |
 | minitf2k    | fatta1     | tf2k       | blitzkrieg2  |
 | mini32s     | frozen1    | 2fort5r    | 32smooth     |
@@ -51,8 +87,8 @@ mostly to remind me of the most playable maps.
 | desperat    | optics5r   | cloudy     | ff-aardvark  |
 | 2mach1      | japanc     | ff-schtop  | ff-shutdown2 |
 | midground   | 2machse    | ff-destroy | lastresort   |
-| 2phaze5r    |            | mordor2    |              |
-|             |            | ff-phantom
+| 2phaze5r    |            | mordor2    | swoop        |
+|             |            | ff-phantom ||
 
 
 ### Other
