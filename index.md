@@ -6,26 +6,25 @@ layout: default
 title: FortressOne
 ---
 
-Team Fortress (1996) is a fast-paced, class based, teamplay oriented
-modification for Quake and QuakeWorld.
+[Team Fortress][] is the original fast-paced, class based, multiplayer mod for [Quake][] and [QuakeWorld][].
 
-FortressOne is a modification for original game, refining and enhancing the
-graphics and gameplay for modern conditions.  It is powered by a modified
-[ezQuake][], and includes an installer for Windows and Linux, graphical
-enhancements from the [Quake Revitalisation Project][], [dox's models][] and
-[Plagues pak][], as well as dozens of custom improvements.
+FortressOne is a community-developed continuation of the original Team Fortress
+mod, refining and enhancing the graphics and gameplay for modern conditions.
+It is powered by a modified [ezQuake][], and includes an installer for Windows
+and Linux, graphical enhancements from the [Quake Revitalisation Project][],
+[dox's models][] and [Plagues pak][], as well as dozens of custom improvements.
 
 
 <div style="display: flex; justify-content: space-between;">
-<div markdown="1">
+  <div markdown="1">
 
 ## Download
 
 [Windows](https://github.com/FortressOne/windows-installer/releases/latest)<br>
 [Ubuntu 18.04+](https://github.com/FortressOne/linux-installer/releases/latest)
 
-</div>
-<div markdown="1">
+  </div>
+  <div markdown="1">
 
 ## Community
 
@@ -34,23 +33,23 @@ enhancements from the [Quake Revitalisation Project][], [dox's models][] and
 [YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)<br>
 [Twitter](https://twitter.com/fortress_one)
 
-</div>
-<div markdown="1">
+  </div>
+  <div markdown="1">
 
 ## Code
 
 [GitHub](https://github.com/FortressOne)<br>
 [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
 
-</div>
-<div markdown="1">
+  </div>
+  <div markdown="1">
 
 ## Links
 
 [Demos](https://demos.fortressone.org)<br>
 [Stats](http://fortressone-stats.s3-website-ap-southeast-2.amazonaws.com/)
 
-</div>
+  </div>
 </div>
 
 
@@ -123,6 +122,7 @@ Software's Team Fortress, zQuake, fuhQuake, ezQuake, FTE Quake, ozTF, hueTF,
 Classic Fortress and Fortress Forever.
 
 
+[Quake]:                             https://www.idsoftware.com/en-gb##section-games
 [QuakeWorld]:                        https://www.idsoftware.com/en-gb##section-games
 [Team Fortress]:                     https://web.archive.org/web/20131005123834/http://www.planetfortress.com/teamfortress/
 [ezQuake]:                           https://ezquake.github.io/
