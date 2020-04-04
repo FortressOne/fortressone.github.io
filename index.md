@@ -29,7 +29,7 @@ from the [Quake Revitalisation Project][], [dox's models][] and
 
 [Discord](https://discord.fortressone.org)<br>
 [Reddit](https://www.reddit.com/r/FortressOne)<br>
-[YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)
+[YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)<br>
 [Twitter](https://twitter.com/fortress_one)
 
 </div>
