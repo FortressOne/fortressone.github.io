@@ -6,18 +6,20 @@ layout: default
 title: FortressOne
 ---
 
-FortressOne is an all in one [QuakeWorld][] [Team Fortress][] package for
-Windows and Linux.
+Team Fortress (1996) is a fast-paced, class based, teamplay oriented
+modification for Quake and QuakeWorld.
 
-It is powered by a modified [ezQuake][], and includes graphical enhancements
-from the [Quake Revitalisation Project][], [dox's models][] and
+FortressOne is a modification for original game, refining and enhancing the
+graphics and gameplay for modern conditions.  It is powered by a modified
+[ezQuake][], and includes an installer for Windows and Linux, graphical
+enhancements from the [Quake Revitalisation Project][], [dox's models][] and
 [Plagues pak][], as well as dozens of custom improvements.
 
 
 <div style="display: flex; justify-content: space-between;">
 <div markdown="1">
 
-## Play
+## Download
 
 [Windows](https://github.com/FortressOne/windows-installer/releases/latest)<br>
 [Ubuntu 18.04+](https://github.com/FortressOne/linux-installer/releases/latest)
