@@ -55,10 +55,14 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
 
 ## Watch live on Twitch
 
-<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
 <div id="twitch-player"></div>
+
+<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+
 <script type="text/javascript">
   var options = {
+    width: 854,
+    height: 480,
     channel: "fortressone",
   };
   var player = new Twitch.Player("twitch-player", options);
