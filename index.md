@@ -29,9 +29,10 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
 ## Community
 
 [Discord](https://discord.fortressone.org)<br>
-[Reddit](https://www.reddit.com/r/FortressOne)<br>
 [Twitch](https://www.twitch.tv/fortressone)<br>
 [YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)<br>
+[Reddit](https://www.reddit.com/r/FortressOne)<br>
+[Hacker News](https://news.ycombinator.com/item?id=22777321)<br>
 [Twitter](https://twitter.com/fortress_one)
 
   </div>
