@@ -16,7 +16,7 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
 
 
 <div style="display: flex; justify-content: space-between;">
-  <div markdown="1">
+  <div markdown="1" style="text-align: center; width: 132px;">
 
 ## Download
 
@@ -24,7 +24,7 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
 [Ubuntu 18.04+](https://github.com/FortressOne/linux-installer/releases/latest)
 
   </div>
-  <div markdown="1">
+  <div markdown="1" style="text-align: center; width: 132px;">
 
 ## Community
 
@@ -36,7 +36,7 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
 [Twitter](https://twitter.com/fortress_one)
 
   </div>
-  <div markdown="1">
+  <div markdown="1" style="text-align: center; width: 132px;">
 
 ## Code
 
@@ -44,7 +44,7 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
 [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
 
   </div>
-  <div markdown="1">
+  <div markdown="1" style="text-align: center; width: 132px;">
 
 ## Links
 
