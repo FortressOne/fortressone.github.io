@@ -64,13 +64,18 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
   var options = {
     width: 854,
     height: 480,
+    theme: "dark",
     channel: "fortressone",
   };
   var player = new Twitch.Player("twitch-player", options);
   player.setVolume(0.5);
 </script>
 
-
+Nothing live? Head to
+[Twitch](https://www.twitch.tv/fortressone)
+to see live hosted channels or
+[YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)
+for recent videos
 
 ## Maps
 
