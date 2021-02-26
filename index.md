@@ -8,11 +8,13 @@ title: FortressOne
 
 [Team Fortress][] is the original fast-paced, class based, multiplayer mod for [Quake][] and [QuakeWorld][].
 
-FortressOne is a community-developed continuation of the original Team Fortress
-mod, refining and enhancing the graphics and gameplay for modern conditions.
-It is powered by a modified [ezQuake][], and includes an installer for Windows
-and Linux, graphical enhancements from the [Quake Revitalisation Project][],
-[dox's models][] and [Plagues pak][], as well as dozens of custom improvements.
+FortressOne is the, stand-alone and open source successor to Team Fortress.  It
+is a community-developed game with refined graphics and enhanced gameplay.  It
+is powered by a modified [ezQuake][], and includes an installer for Windows and
+Linux, graphical enhancements from the [Quake Revitalisation Project][], [dox's
+models][] and [Plagues pak][], as well as dozens of custom improvements.
+
+Join us on [Discord](https://discord.fortressone.org).
 
 
 <div style="display: flex; justify-content: space-between;">
@@ -21,7 +23,7 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
 ## Download
 
 [Windows](https://github.com/FortressOne/windows-installer/releases/latest)<br>
-[Ubuntu 18.04+](https://github.com/FortressOne/linux-installer/releases/latest)
+[Linux](https://github.com/FortressOne/linux-installer/releases/latest)
 
   </div>
   <div markdown="1" style="text-align: center; width: 132px;">
@@ -49,6 +51,7 @@ and Linux, graphical enhancements from the [Quake Revitalisation Project][],
 ## Links
 
 [Demos](https://demos.fortressone.org)<br>
+[Ratings](https://ratings.fortressone.org)<br>
 [Stats](http://fortressone-stats.s3-website-ap-southeast-2.amazonaws.com/)
 
   </div>
@@ -78,59 +81,12 @@ to see live hosted channels or
 [YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)
 for recent videos
 
-## Maps
 
-There are thousands of QuakeWorld Team Fortress maps. This is a curated list
-mostly to remind me of the most playable maps.
-
-### Capture the flag
-
-| Tiny        | Small      | Medium     | Large        |
-| ---         | ---        | ---        | ---          |
-| poop        | drop2      | mbasesr    | 2night2      |
-| xpress3     | well6small | bam5       | h4rdcore     |
-| xpress2     | stag3r     | well6      | turtler      |
-| minitf2k    | fatta1     | tf2k       | blitzkrieg2  |
-| mini32s     | frozen1    | 2fort5r    | 32smooth     |
-| preskool    | genders2   | sewer1     | excel        |
-| mininoheros | rs\_zz1    | rstrong    | ff-monkey    |
-| desperat    | optics5r   | cloudy     | ff-aardvark  |
-| 2mach1      | japanc     | ff-schtop  | ff-shutdown2 |
-| midground   | 2machse    | ff-destroy | lastresort   |
-| 2phaze5r    |            | mordor2    | swoop        |
-|             |            | ff-phantom ||
-
-
-### Other
-
-| Duel      | Four-team | Misc     |
-| ---       | ---       | ---      |
-| frag      | spaz4     | kotc     |
-| 1on1r     | king      | invade4a |
-| amth1     | koth3     |          |
-| sq1       | 2octa4v1  |          |
-| 1on1forts |           |          |
-| well1on1  |           |          |
-
-
-## Team
-
-| Name      | Role                         |
-|-----------|------------------------------|
-| zel       | Development, community       |
-| lordy     | Mod development, mapping     |
-| meht      | Mod development              |
-| Spoike    | FTE development              |
-| EvilAnt   | Mod development, mapping, QA |
-| Twi-      | Art, QA                      |
-| klown     | Mapping, community           |
-| novate    | QA                           |
-| loki      | Operations                   |
-| Wolverine | Business Development Manager |
+## Acknowledgements
 
 FortressOne is built on or inspired by ID Software's Quake, Team Fortress
 Software's Team Fortress, zQuake, fuhQuake, ezQuake, FTE Quake, ozTF, hueTF,
-Classic Fortress and Fortress Forever.
+Classic Fortress, Team Fortress Classic, Fortress Forever and Team Fortress 2.
 
 
 [Quake]:                             https://www.idsoftware.com/en-gb##section-games
