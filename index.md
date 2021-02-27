@@ -8,11 +8,8 @@ title: FortressOne
 
 [Team Fortress][] is the original fast-paced, class based, multiplayer mod for [Quake][] and [QuakeWorld][].
 
-FortressOne is the open source, stand-alone successor to Team Fortress.  It is
-a community-developed game with refined graphics and enhanced gameplay powered
-by a modified [ezQuake][]. It includes an installer for Windows and Linux,
-graphical enhancements from the [Quake Revitalisation Project][], [dox's
-models][] and [Plagues pak][], as well as dozens of custom improvements.
+FortressOne is the open source, stand-alone successor to Quake Team Fortress.
+It is a community-developed game with refined graphics and evolved gameplay.
 
 Join us on [Discord](https://discord.fortressone.org).
 
