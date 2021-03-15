@@ -8,7 +8,7 @@ title: FortressOne
 
 [Team Fortress][] is the original fast-paced, class based, multiplayer mod for [Quake][] and [QuakeWorld][].
 
-FortressOne is a community-developed, open source, stand-alone fork of
+FortressOne is a community developed, open source, stand-alone fork of
 QuakeWorld Team Fortress. It comes loaded with refined graphics, new mechanics
 and evolved gameplay.
 
