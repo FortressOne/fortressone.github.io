@@ -49,7 +49,7 @@ Alternatively get FortressOne on [Lutris][] or [itch.io][].
 
 ## Watch
 
-- [Official Twitch account](https://www.twitch.tv/fortressone)<br>
+- [Twitch channel](https://www.twitch.tv/fortressone)<br>
 - [FortressOne category on Twitch][]
 - [Official YouTube account](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)<br>
 
