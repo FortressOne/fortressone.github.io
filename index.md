@@ -3,7 +3,7 @@
 ## To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: FortressOne
+description: Community developed, open source, stand-alone fork of QuakeWorld Team Fortress
 ---
 
 [Team Fortress][] is the original fast-paced, class based, multiplayer mod for [Quake][] and [QuakeWorld][].
