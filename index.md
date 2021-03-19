@@ -61,9 +61,9 @@ Join the [Discord][] or fork us on [GitHub](https://github.com/FortressOne).
 
 ## Links
 
-[Demos](https://demos.fortressone.org)<br>
-[Ratings](https://ratings.fortressone.org)<br>
-[Stats](http://fortressone-stats.s3-website-ap-southeast-2.amazonaws.com/)
+- [Demos](https://demos.fortressone.org)<br>
+- [Ratings](https://ratings.fortressone.org)<br>
+- [Stats](http://fortressone-stats.s3-website-ap-southeast-2.amazonaws.com/)
 
 
 ## Acknowledgements
