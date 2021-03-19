@@ -12,39 +12,52 @@ FortressOne is a community developed, open source, stand-alone fork of
 QuakeWorld Team Fortress. It comes loaded with refined graphics, new mechanics
 and evolved gameplay.
 
-Join us on [Discord](https://discord.fortressone.org).
+Join us on [Discord][] or check out the [FortressOne category on Twitch][].
 
 
-<div style="display: flex; justify-content: space-between;">
-  <div markdown="1" style="text-align: center; width: 132px;">
+## Install
 
-## Download
+### Windows
 
-[Windows](https://github.com/FortressOne/windows-installer/releases/latest)<br>
-[Linux](https://github.com/FortressOne/linux-installer/releases/latest)
+Download and run the [FortressOne for Windows installer][].
 
-  </div>
-  <div markdown="1" style="text-align: center; width: 132px;">
+_You might get a notification that Windows prevented and unknown app from
+running. You can click 'More info' > 'Run anyway'._
+
+
+### Linux
+
+Download the [FortressOne for Linux installer][].
+
+```bash
+$ sh fortressone-linux-installer-1.0.3.run
+```
+
+_Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
+versions, but if it doesn't, please [raise an issue][] on GitHub._
+
+
+Alternatively get FortressOne on [Lutris][] or [itch.io][].
+
 
 ## Community
 
-[Discord](https://discord.fortressone.org)<br>
-[Twitch](https://www.twitch.tv/fortressone)<br>
-[YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)<br>
-[Reddit](https://www.reddit.com/r/FortressOne)<br>
-[Hacker News](https://news.ycombinator.com/item?id=22777321)<br>
-[Twitter](https://twitter.com/fortress_one)
+- [Discord][]<br>
+- [Reddit](https://www.reddit.com/r/FortressOne)<br>
+- [Hacker News](https://news.ycombinator.com/item?id=22777321)<br>
 
-  </div>
-  <div markdown="1" style="text-align: center; width: 132px;">
 
-## Code
+## Watch
 
-[GitHub](https://github.com/FortressOne)<br>
-[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2176336)
+- [Official Twitch account](https://www.twitch.tv/fortressone)<br>
+- [FortressOne category on Twitch][]
+- [Official YouTube account](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)<br>
 
-  </div>
-  <div markdown="1" style="text-align: center; width: 132px;">
+
+## Contribute
+
+Join the [Discord][] or fork us on [GitHub](https://github.com/FortressOne).
+
 
 ## Links
 
@@ -52,38 +65,11 @@ Join us on [Discord](https://discord.fortressone.org).
 [Ratings](https://ratings.fortressone.org)<br>
 [Stats](http://fortressone-stats.s3-website-ap-southeast-2.amazonaws.com/)
 
-  </div>
-</div>
-
-
-## Watch live on Twitch
-
-<div id="twitch-player"></div>
-
-<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
-
-<script type="text/javascript">
-  var options = {
-    width: 854,
-    height: 480,
-    theme: "dark",
-    channel: "fortressone",
-  };
-  var player = new Twitch.Player("twitch-player", options);
-  player.setVolume(0.5);
-</script>
-
-Nothing live? Head to
-[Twitch](https://www.twitch.tv/fortressone)
-to see live hosted channels or
-[YouTube](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)
-for recent videos
-
 
 ## Acknowledgements
 
 FortressOne is built on or inspired by ID Software's Quake, Team Fortress
-Software's Team Fortress, zQuake, fuhQuake, ezQuake, FTE Quake, ozTF, hueTF,
+Software's Team Fortress, FTE Quake, zQuake, fuhQuake, ezQuake, ozTF, hueTF,
 Classic Fortress, Team Fortress Classic, Fortress Forever and Team Fortress 2.
 
 
@@ -98,6 +84,9 @@ Classic Fortress, Team Fortress Classic, Fortress Forever and Team Fortress 2.
 [FortressOne for Linux installer]:   https://github.com/FortressOne/linux-installer/releases/latest
 [raise an issue]:                    https://github.com/FortressOne/linux-installer/issues/new
 [FortressOne Server for Linux]:      https://github.com/FortressOne/linux-server-installer/releases/latest
+[Lutris]:                            https://lutris.net/games/fortressone/
+[itch.io]:                           https://drzel.itch.io/fortressone
+[FortressOne category on Twitch]:    https://www.twitch.tv/directory/game/FortressOne
 [FortressOne mod]:                   https://github.com/FortressOne/server-qwprogs
 [FortressOne Discord]:               https://discord.fortressone.org
 [MegaTF]:                            https://github.com/alissa0/MegaTFCE
@@ -107,3 +96,4 @@ Classic Fortress, Team Fortress Classic, Fortress Forever and Team Fortress 2.
 [TF2003]:                            https://github.com/angeld29/TF2003-qvm
 [QWTF.RU Discord]:                   https://discord.gg/FVuG7br
 [Classic Fortress]:                  http://classicfortress.net/
+[Discord]:                           https://discord.fortressone.org
