@@ -21,8 +21,8 @@ Join us on [Discord][] or check out the [FortressOne category on Twitch][].
 
 Download and run the [FortressOne for Windows installer][].
 
-_You might get a notification that Windows prevented and unknown app from
-running. You can click 'More info' > 'Run anyway'._
+> You might get a notification that Windows prevented and unknown app from
+> running. You can click 'More info' > 'Run anyway'.
 
 
 ### Linux
@@ -30,11 +30,11 @@ running. You can click 'More info' > 'Run anyway'._
 Download the [FortressOne for Linux installer][].
 
 ```bash
-$ sh fortressone-linux-installer-1.0.3.run
+$ sh fortressone-linux-installer-1.0.4.run
 ```
 
-_Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
-versions, but if it doesn't, please [raise an issue][] on GitHub._
+> Has been tested for Ubuntu 18.04 and 18.10. It might work on other distros and
+> versions, but if it doesn't, please [raise an issue][] on GitHub.
 
 
 Alternatively get FortressOne on [Lutris][] or [itch.io][].
