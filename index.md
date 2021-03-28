@@ -54,17 +54,122 @@ Alternatively get FortressOne on [Lutris][] or [itch.io][].
 - [Official YouTube account](https://www.youtube.com/channel/UCgYzKaEyTNoVfRLwlpfKzFQ)<br>
 
 
-## Contribute
-
-Join the [Discord][] or fork us on [GitHub](https://github.com/FortressOne).
-
-
 ## Links
 
 - [Wiki](https://github.com/FortressOne/fortressone.github.io/wiki)<br>
 - [Ratings](https://ratings.fortressone.org)<br>
 - [Demos](https://demos.fortressone.org)<br>
 - [Stats](http://fortressone-stats.s3-website-ap-southeast-2.amazonaws.com/)
+
+
+## Classes
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Class</th>
+            <th>Speed</th>
+            <th>Armour</th>
+            <th>Weapons</th>
+            <th>Gren 1</th>
+            <th>Gren 2</th>
+            <th>Special</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/blue_scout.png" /></td>
+            <td>Scout</td>
+            <td>450</td>
+            <td>25 Green</td>
+            <td>Nailgun, Shotgun, Axe</td>
+            <td>Flash / Caltrops</td>
+            <td>Concussion</td>
+            <td>Dash, Scanner, Undisguise enemy, Disarm Detpack</td>
+        </tr>
+        <!-- <tr> -->
+        <!--     <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/red_sniper.png" /></td> -->
+        <!--     <td>Sniper</td> -->
+        <!--     <td colspan=7></td> -->
+        <!-- </tr> -->
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/blue_soldier.png" /></td>
+            <td>Soldier</td>
+            <td>240</td>
+            <td>200 Red</td>
+            <td>Rocket Launcher, Super Shotgun, Shotgun, Axe</td>
+            <td>Frag</td>
+            <td>Shock / Nail</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/blue_demoman.png" /></td>
+            <td>Demoman</td>
+            <td>280</td>
+            <td>110 Yellow</td>
+            <td>Pipe Launcher, Grenade Launcher, Shotgun, Axe</td>
+            <td>Frag</td>
+            <td>MIRV</td>
+            <td>Detpipe, Detpack</td>
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/blue_medic.png" /></td>
+            <td>Medic</td>
+            <td>320</td>
+            <td>90 Yellow</td>
+            <td>Super Nailgun, Super Shotgun, Shotgun, Medi/Bio Weapon</td>
+            <td>Frag</td>
+            <td>Blast / Concussion</td>
+            <td>Healing Aura, Concussion Immunity</td>
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/blue_hwguy.png" /></td>
+            <td>HWGuy</td>
+            <td>230</td>
+            <td>300 Red</td>
+            <td>Assault Cannon, Super Shotgun, Shotgun, Axe</td>
+            <td>Frag</td>
+            <td>MIRV</td>
+            <td>Cannon Lock, Extra Mass</td>
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/blue_pyro.png" /></td>
+            <td>Pyro</td>
+            <td>300</td>
+            <td>150 Yellow</td>
+            <td>Flamethrower, Incendiary Cannon, Shotgun, Axe</td>
+            <td>Frag</td>
+            <td>Napalm</td>
+            <td>Airblast</td>
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/blue_spy.png" /></td>
+            <td>Spy</td>
+            <td>300</td>
+            <td>90 Yellow</td>
+            <td>Nailgun, Super Shotgun, Tranq Gun, Knife</td>
+            <td>Frag</td>
+            <td>Hallucinogenic Gas</td>
+            <td>Disguise / invisibility, Feign, Undisguise enemy</td>
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/FortressOne/qwtf-discord-bot/master/emoji/blue_engineer.png" /></td>
+            <td>Engineer</td>
+            <td>300</td>
+            <td>30 Yellow</td>
+            <td>Railgun, Super Shotgun, Shotgun, Spanner</td>
+            <td>Frag</td>
+            <td>EMP</td>
+            <td>Build Sentry Gun, Build Dispenser, Dismantle Enemy Buildings</td>
+        </tr>
+    </tbody>
+</table>
+
+
+## Contribute
+
+Join the [Discord][] or fork us on [GitHub](https://github.com/FortressOne).
 
 
 ## Acknowledgements
