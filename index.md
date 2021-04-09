@@ -177,6 +177,8 @@ Join the [Discord][] or fork us on [GitHub](https://github.com/FortressOne).
 FortressOne is built on or inspired by ID Software's Quake, Team Fortress
 Software's Team Fortress, FTE Quake, zQuake, fuhQuake, ezQuake, ozTF, hueTF,
 Classic Fortress, Team Fortress Classic, Fortress Forever and Team Fortress 2.
+It includes assets from the [Quake Revitalisation Project][], [dox's models][]
+and [Plagues pak][].
 
 
 [Quake]:                             https://www.idsoftware.com/en-gb##section-games
