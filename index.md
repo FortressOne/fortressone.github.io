@@ -3,10 +3,10 @@
 ## To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-description: Community developed, open source, stand-alone fork of QuakeWorld Team Fortress
+description: Community developed, open source, stand-alone fork of Quake Team Fortress
 ---
 
-[Team Fortress][] is the original fast-paced, class based, multiplayer mod for [Quake][] and [QuakeWorld][].
+[Team Fortress][] is the original fast-paced, class based, multiplayer mod for [Quake][] (QTF) and [QuakeWorld][] (QWTF).
 
 FortressOne is a community developed, open source, stand-alone fork of
 QuakeWorld Team Fortress. It comes loaded with refined graphics, new mechanics
